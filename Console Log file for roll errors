@@ -1,0 +1,896 @@
+Refused to execute inline script because it violates the following Content Security Policy directive: "script-src 'self' 'unsafe-eval' https://*.googlesyndication.com https://*.doubleclick.net https://partner.googleadservices.com https://www.googletagservices.com https://ssl.google-analytics.com https://www.google-analytics.com https://ajax.googleapis.com https://d3clqjduf2gvxg.cloudfront.net https://cdn.firebase.com https://*.firebaseio.com https://*.tokbox.com https://*.opentok.com http://static.opentok.com". Either the 'unsafe-inline' keyword, a hash ('sha256-sbz2WbErp0sG0f0oTR7ymSARCDx0a_EAeinyio5olyU='), or a nonce ('nonce-...') is required to enable inline execution.
+
+app.roll20dev.net/:9 Refused to execute inline script because it violates the following Content Security Policy directive: "script-src 'self' 'unsafe-eval' https://*.googlesyndication.com https://*.doubleclick.net https://partner.googleadservices.com https://www.googletagservices.com https://ssl.google-analytics.com https://www.google-analytics.com https://ajax.googleapis.com https://d3clqjduf2gvxg.cloudfront.net https://cdn.firebase.com https://*.firebaseio.com https://*.tokbox.com https://*.opentok.com http://static.opentok.com". Either the 'unsafe-inline' keyword, a hash ('sha256-N4rT-GhE0K4LJ4zTB64Bkmk5xSsA8M7MPSk1qY82nAQ='), or a nonce ('nonce-...') is required to enable inline execution.
+
+app.roll20dev.net/:15 Resource interpreted as Script but transferred with MIME type text/html: "https://app.roll20dev.net/editor/startjs/?timestamp=1430151282&disablewebgl=false&forcelongpolling=false&offsite=false&fbdebug=false".
+app.js?1430146173:29 70
+app.js?1430146173:29 TOUCH SUPPORTED: false
+app.js?1430146173:29 USING WEBGL ACCELERATION...
+app.js?1430146173:29 WEBGL STARTUP SUCCESS
+app.js?1430146173:24 select
+app.js?1430146173:24 Switch mode to select
+app.js?1430146173:39 Initializing new dice engine with randomness...
+app.js?1430146173:39 Using random entropy
+app.js?1430146173:41 Unable to start up OpenTok!
+app.js?1430146173:42 Compiling sheet...
+app.js?1430146173:42 Found rolltemplate: DnD35Attack
+app.js?1430146173:42 Found rolltemplate: DnD35Initiative
+app.js?1430146173:42 Found rolltemplate: DnD35StdRoll
+jquery.min.js:2 Mixed Content: The page at 'https://app.roll20dev.net/editor/' was loaded over HTTPS, but requested an insecure image 'http://imgsrv.roll20.net/?src=i.imgur.com/A746uyc.png%3F1'. This content should also be served over HTTPS.
+app.js?1430146173:42 Finding sheet rolls...
+app.js?1430146173:43 window resize
+app.js?1430146173:30 Final set zoom!
+app.js?1430146173:29 UPDATE GL SIZE!
+app.js?1430146173:30 Final set zoom!
+tutorial_tips.js:7 tuts loaded
+app.js?1430146173:35 Final page load.
+app.js?1430146173:35 Scan for new plays!
+app.js?1430146173:35 Auth'ed.
+app.js?1430146173:35 Go post auth!
+9app.js?1430146173:35 Scan for new plays!
+app.js?1430146173:35 initial setup
+app.js?1430146173:35 Got players value...
+app.js?1430146173:35 joining game...
+app.js?1430146173:33 Player -ImaO-JSKrTWla6g26YH is offline...
+app.js?1430146173:33 Player -ImbQbspHkHNUFY2A7EE is offline...
+app.js?1430146173:33 Player -Imw_VT9EibAeGMsmKj- is offline...
+app.js?1430146173:33 Player -InfWKKFyBcyroTi_I_n is offline...
+app.js?1430146173:35 Deferred finish joining...
+app.js?1430146173:29 Firebase Online
+app.js?1430146173:33 I think I should be first?
+app.js?1430146173:33 FIRST PLAYER: -ImaO-JSKrTWla6g26YH
+app.js?1430146173:38 refershing page listings!
+5app.js?1430146173:32 Full load page!
+app.js?1430146173:35 We have 11 pages
+app.js?1430146173:35 handle page changes
+app.js?1430146173:35 false
+jquery.min.js:2 Resource interpreted as Image but transferred with MIME type binary/octet-stream: "https://s3.amazonaws.com/files.d20.io/images/628752/VzQFc68H31ngnWWnBrbAlg/med.jpg?1360375993&size=150".a.getComputedStyle.bH @ jquery.min.js:2b$ @ jquery.min.js:2p.fn.extend.hide @ jquery.min.js:2p.each.p.fn.(anonymous function) @ jquery.min.js:2jQuery.effects.$.fn.extend.hide @ jquery-ui.1.9.0.custom.min.js?3:16buildSelector @ app.js?1430146173:5e.fn.colorPicker @ app.js?1430146173:4Backbone.View.extend.render @ app.js?1430146173:33(anonymous function) @ app.js?1430146173:33t.Events.trigger @ base.js?1429019847:1n.extend.change @ base.js?1429019847:1n.extend.set @ base.js?1429019847:1n.defaultEvents.child_changed @ app.js?1430146173:3(anonymous function) @ firebase.1.0.15.js:88ec @ firebase.1.0.15.js:39Bd @ firebase.1.0.15.js:88zd.Fb @ firebase.1.0.15.js:88Cd.Fb @ firebase.1.0.15.js:89(anonymous function) @ firebase.1.0.15.js:106Ic @ firebase.1.0.15.js:55(anonymous function) @ firebase.1.0.15.js:106Sa @ firebase.1.0.15.js:20Zd @ firebase.1.0.15.js:106W @ firebase.1.0.15.js:106t.eb @ firebase.1.0.15.js:117J.set @ firebase.1.0.15.js:141(anonymous function) @ app.js?1430146173:29(anonymous function) @ firebase.1.0.15.js:88ec @ firebase.1.0.15.js:39Bd @ firebase.1.0.15.js:88zd.Fb @ firebase.1.0.15.js:88Cd.Fb @ firebase.1.0.15.js:89Td.Ob @ firebase.1.0.15.js:102t.Ob @ firebase.1.0.15.js:120H.Ya @ firebase.1.0.15.js:13firebasePing @ app.js?1430146173:29(anonymous function) @ app.js?1430146173:35(anonymous function) @ base.js?1429019847:1
+app.js?1430146173:38 refershing page listings!
+jquery.min.js:2 Resource interpreted as Image but transferred with MIME type binary/octet-stream: "https://s3.amazonaws.com/files.d20.io/images/15861/thumb.png?1338408019".(anonymous function) @ jquery.min.js:2p.extend.access @ jquery.min.js:2p.fn.extend.html @ jquery.min.js:2n @ app.js?1430146173:38k.debounce.n @ base.js?1429019847:1
+jquery.min.js:2 Resource interpreted as Image but transferred with MIME type binary/octet-stream: "https://s3.amazonaws.com/files.d20.io/marketplace/11950/AyvK7-cf6ZgguphByP8IIQ/thumb.jpg?1363942991".(anonymous function) @ jquery.min.js:2p.extend.access @ jquery.min.js:2p.fn.extend.html @ jquery.min.js:2n @ app.js?1430146173:38k.debounce.n @ base.js?1429019847:1
+jquery.min.js:2 Resource interpreted as Image but transferred with MIME type binary/octet-stream: "https://s3.amazonaws.com/files.d20.io/images/716373/MM24ZmCBxVgNclkFUvq7EA/thumb.png?1361906963".(anonymous function) @ jquery.min.js:2p.extend.access @ jquery.min.js:2p.fn.extend.html @ jquery.min.js:2n @ app.js?1430146173:38k.debounce.n @ base.js?1429019847:1
+jquery.min.js:2 Resource interpreted as Image but transferred with MIME type binary/octet-stream: "https://s3.amazonaws.com/files.d20.io/images/2293304/vqNCSoSWwOtdRiYSCrwF9w/med.png?1384359808".(anonymous function) @ jquery.min.js:2p.extend.access @ jquery.min.js:2p.fn.extend.html @ jquery.min.js:2d20.models.HandoutView.Backbone.View.extend.render @ app.js?1430146173:37d20.models.HandoutView.Backbone.View.extend.initialize @ app.js?1430146173:37t.View @ base.js?1429019847:1r @ base.js?1429019847:1d20.models.Handout.Backbone.Model.extend.initialize @ app.js?1430146173:37t.Model @ base.js?1429019847:1r @ base.js?1429019847:1n.extend._prepareModel @ base.js?1429019847:1n.extend.add @ base.js?1429019847:1_.extend._add @ app.js?1430146173:3n.defaultEvents.child_added @ app.js?1430146173:3(anonymous function) @ firebase.1.0.15.js:88ec @ firebase.1.0.15.js:39Bd @ firebase.1.0.15.js:88zd.Fb @ firebase.1.0.15.js:88Cd.Fb @ firebase.1.0.15.js:89(anonymous function) @ firebase.1.0.15.js:106Ic @ firebase.1.0.15.js:55(anonymous function) @ firebase.1.0.15.js:106Ra @ firebase.1.0.15.js:20Zd @ firebase.1.0.15.js:106W @ firebase.1.0.15.js:106t.ac @ firebase.1.0.15.js:114t.$b @ firebase.1.0.15.js:80Tc.$b @ firebase.1.0.15.js:72Tc.vd.cd.t @ firebase.1.0.15.js:71Fc @ firebase.1.0.15.js:54Cc.open.W.onmessage @ firebase.1.0.15.js:53
+app.js?1430146173:35 init active page!
+app.js?1430146173:32 activate page!
+app.js?1430146173:33 FULLY ACTIVATE VIEWS FOR PAGE.
+3jquery.min.js:2 Mixed Content: The page at 'https://app.roll20dev.net/editor/' was loaded over HTTPS, but requested an insecure image 'http://www.dundjinni.com/forums/uploads/Halebop/Magic_Circle-j.png?1409593600'. This content should also be served over HTTPS.
+3jquery.min.js:2 Mixed Content: The page at 'https://app.roll20dev.net/editor/' was loaded over HTTPS, but requested an insecure image 'http://www.dundjinni.com/forums/uploads/PokerPhaze/4AD_Blood_Splatter_PP.png?1409665621'. This content should also be served over HTTPS.
+jquery.min.js:2 Resource interpreted as Image but transferred with MIME type binary/octet-stream: "https://s3.amazonaws.com/files.d20.io/marketplace/37808/CIm5Mku10l4jscmO_wstdQ/max.png?1398313981".(anonymous function) @ jquery.min.js:2p.extend.access @ jquery.min.js:2p.fn.extend.html @ jquery.min.js:2Backbone.View.extend.render @ app.js?1430146173:34Backbone.View.extend.showDeck @ app.js?1430146173:34(anonymous function) @ app.js?1430146173:34(anonymous function) @ base.js?1429019847:1
+jquery.min.js:2 Resource interpreted as Image but transferred with MIME type binary/octet-stream: "https://s3.amazonaws.com/files.d20.io/marketplace/37799/ljWV2t59fD-q_5i2F-dc3w/max.png?1398266419".(anonymous function) @ jquery.min.js:2p.extend.access @ jquery.min.js:2p.fn.extend.html @ jquery.min.js:2Backbone.View.extend.render @ app.js?1430146173:34Backbone.View.extend.showDeck @ app.js?1430146173:34(anonymous function) @ app.js?1430146173:34(anonymous function) @ base.js?1429019847:1
+app.js?1430146173:32 Graphics: 0
+app.js?1430146173:32 Paths: 0
+jquery.min.js:2 Resource interpreted as Image but transferred with MIME type binary/octet-stream: "https://s3.amazonaws.com/files.d20.io/marketplace/37797/XIx2iJzjugN-k20bk0G3Qg/max.png?1398265963".(anonymous function) @ jquery.min.js:2p.extend.access @ jquery.min.js:2p.fn.extend.html @ jquery.min.js:2Backbone.View.extend.render @ app.js?1430146173:34Backbone.View.extend.showDeck @ app.js?1430146173:34(anonymous function) @ app.js?1430146173:34(anonymous function) @ base.js?1429019847:1
+3jquery.min.js:2 Mixed Content: The page at 'https://app.roll20dev.net/editor/' was loaded over HTTPS, but requested an insecure image 'http://www.dundjinni.com/forums/uploads/PokerPhaze/4AD_Blood_Splatter_PP.png?1409665501'. This content should also be served over HTTPS.
+app.js?1430146173:33 Reorder by ZORDER
+app.js?1430146173:31 Do refresh link cache!
+app.js?1430146173:38 refershing page listings!
+2jquery.min.js:2 Mixed Content: The page at 'https://app.roll20dev.net/editor/' was loaded over HTTPS, but requested an insecure image 'http://www.dundjinni.com/forums/uploads/Halebop/Magic_Circle-j.png?1409593600'. This content should also be served over HTTPS.
+jquery.min.js:2 Mixed Content: The page at 'https://app.roll20dev.net/editor/' was loaded over HTTPS, but requested an insecure image 'http://www.dundjinni.com/forums/uploads/PokerPhaze/4AD_Blood_Splatter_PP.png?1409665621'. This content should also be served over HTTPS.
+3jquery.min.js:2 Mixed Content: The page at 'https://app.roll20dev.net/editor/' was loaded over HTTPS, but requested an insecure image 'http://www.dundjinni.com/forums/uploads/PokerPhaze/4AD_Blood_Splatter_PP.png?1409665501'. This content should also be served over HTTPS.
+2jquery.min.js:2 Mixed Content: The page at 'https://app.roll20dev.net/editor/' was loaded over HTTPS, but requested an insecure image 'http://www.dundjinni.com/forums/uploads/Halebop/Magic_Circle-j.png?1409593600'. This content should also be served over HTTPS.
+2app.roll20dev.net/:1 Mixed Content: The page at 'https://app.roll20dev.net/editor/' was loaded over HTTPS, but requested an insecure image 'http://imgsrv.roll20.net:5100/?src=www.dundjinni.com/forums/uploads/PokerPhaze/4AD_Blood_Splatter_PP.png%3F1409665621&cb=4'. This content should also be served over HTTPS.
+app.js?1430146173:28 Resource interpreted as Image but transferred with MIME type binary/octet-stream: "https://s3.amazonaws.com/files.d20.io/marketplace/5359/thumb.png?133956430354".e.fabric.Image.fabric.Image.fromURL @ app.js?1430146173:28Backbone.View.extend.fullyActivateView @ app.js?1430146173:32Backbone.View.extend.initialize @ app.js?1430146173:32t.View @ base.js?1429019847:1r @ base.js?1429019847:1d20.models.Graphic.Backbone.Model.extend.initialize @ app.js?1430146173:32t.Model @ base.js?1429019847:1r @ base.js?1429019847:1n.extend._prepareModel @ base.js?1429019847:1n.extend.add @ base.js?1429019847:1_.extend._add @ app.js?1430146173:3n.defaultEvents.child_added @ app.js?1430146173:3(anonymous function) @ firebase.1.0.15.js:88ec @ firebase.1.0.15.js:39Bd @ firebase.1.0.15.js:88zd.Fb @ firebase.1.0.15.js:88Cd.Fb @ firebase.1.0.15.js:89(anonymous function) @ firebase.1.0.15.js:106Ic @ firebase.1.0.15.js:55(anonymous function) @ firebase.1.0.15.js:106Ra @ firebase.1.0.15.js:20Zd @ firebase.1.0.15.js:106W @ firebase.1.0.15.js:106t.ac @ firebase.1.0.15.js:114t.$b @ firebase.1.0.15.js:80Tc.$b @ firebase.1.0.15.js:72Tc.vd.cd.t @ firebase.1.0.15.js:71Fc @ firebase.1.0.15.js:54Cc.open.W.onmessage @ firebase.1.0.15.js:52
+app.js?1430146173:41 Refresh Journal List!
+app.js?1430146173:41 Search took 21ms
+jquery.min.js:2 Resource interpreted as Image but transferred with MIME type binary/octet-stream: "https://s3.amazonaws.com/files.d20.io/images/610604/pnBmE9QryiyFI-VYBPpvfQ/mini.jpg?1360003021".(anonymous function) @ jquery.min.js:2p.extend.access @ jquery.min.js:2p.fn.extend.html @ jquery.min.js:2d20.journal.refreshJournalList @ app.js?1430146173:41(anonymous function) @ app.js?1430146173:41
+jquery.min.js:2 Resource interpreted as Image but transferred with MIME type binary/octet-stream: "https://s3.amazonaws.com/files.d20.io/marketplace/5323/max.png?1339522706".(anonymous function) @ jquery.min.js:2p.extend.access @ jquery.min.js:2p.fn.extend.html @ jquery.min.js:2d20.journal.refreshJournalList @ app.js?1430146173:41(anonymous function) @ app.js?1430146173:41
+app.js?1430146173:29 new caster!
+jquery.min.js:2 Resource interpreted as Image but transferred with MIME type binary/octet-stream: "https://s3.amazonaws.com/files.d20.io/images/827244/6FSTqXmTNE1OoXRrNkn01g/max.png?1363883800".(anonymous function) @ jquery.min.js:2p.extend.access @ jquery.min.js:2p.fn.extend.html @ jquery.min.js:2d20.journal.refreshJournalList @ app.js?1430146173:41(anonymous function) @ app.js?1430146173:41
+4app.js?1430146173:29 new caster!
+jquery.min.js:2 Resource interpreted as Image but transferred with MIME type binary/octet-stream: "https://s3.amazonaws.com/files.d20.io/marketplace/5449/max.png?1339601474".(anonymous function) @ jquery.min.js:2p.extend.access @ jquery.min.js:2p.fn.extend.html @ jquery.min.js:2d20.journal.refreshJournalList @ app.js?1430146173:41(anonymous function) @ app.js?1430146173:41
+jquery.min.js:2 Resource interpreted as Image but transferred with MIME type binary/octet-stream: "https://s3.amazonaws.com/files.d20.io/images/610596/i2lHuTkV-VNUYJECHjtRkA/mini.jpg?1360002797".(anonymous function) @ jquery.min.js:2p.extend.access @ jquery.min.js:2p.fn.extend.html @ jquery.min.js:2d20.journal.refreshJournalList @ app.js?1430146173:41(anonymous function) @ app.js?1430146173:41
+7app.js?1430146173:29 new caster!
+jquery.min.js:2 Resource interpreted as Image but transferred with MIME type binary/octet-stream: "https://s3.amazonaws.com/files.d20.io/images/610609/GX5l_lEBISARg5LrKrgRCg/mini.jpg?1360003055".(anonymous function) @ jquery.min.js:2p.extend.access @ jquery.min.js:2p.fn.extend.html @ jquery.min.js:2d20.journal.refreshJournalList @ app.js?1430146173:41(anonymous function) @ app.js?1430146173:41
+7app.js?1430146173:29 new caster!
+jquery.min.js:2 Resource interpreted as Image but transferred with MIME type binary/octet-stream: "https://s3.amazonaws.com/files.d20.io/images/610603/BQ_OgDwP95PaeuFFo_s5oQ/mini.jpg?1360002990".(anonymous function) @ jquery.min.js:2p.extend.access @ jquery.min.js:2p.fn.extend.html @ jquery.min.js:2d20.journal.refreshJournalList @ app.js?1430146173:41(anonymous function) @ app.js?1430146173:41
+jquery.min.js:2 Resource interpreted as Image but transferred with MIME type binary/octet-stream: "https://s3.amazonaws.com/files.d20.io/images/59228/mini.png?1340712024".(anonymous function) @ jquery.min.js:2p.extend.access @ jquery.min.js:2p.fn.extend.html @ jquery.min.js:2d20.journal.refreshJournalList @ app.js?1430146173:41(anonymous function) @ app.js?1430146173:41
+6app.js?1430146173:29 new caster!
+jquery.min.js:2 Resource interpreted as Image but transferred with MIME type binary/octet-stream: "https://s3.amazonaws.com/files.d20.io/images/388393/dcq4RAQ_ZE7Ei9cl4GFvRw/mini.png?1353416785".(anonymous function) @ jquery.min.js:2p.extend.access @ jquery.min.js:2p.fn.extend.html @ jquery.min.js:2d20.journal.refreshJournalList @ app.js?1430146173:41(anonymous function) @ app.js?1430146173:41
+jquery.min.js:2 Resource interpreted as Image but transferred with MIME type binary/octet-stream: "https://s3.amazonaws.com/files.d20.io/images/21834/mini.png?1339020115".(anonymous function) @ jquery.min.js:2p.extend.access @ jquery.min.js:2p.fn.extend.html @ jquery.min.js:2d20.journal.refreshJournalList @ app.js?1430146173:41(anonymous function) @ app.js?1430146173:41
+6app.js?1430146173:29 new caster!
+jquery.min.js:2 Resource interpreted as Image but transferred with MIME type binary/octet-stream: "https://s3.amazonaws.com/files.d20.io/marketplace/5451/max.png?1339601573".(anonymous function) @ jquery.min.js:2p.extend.access @ jquery.min.js:2p.fn.extend.html @ jquery.min.js:2d20.journal.refreshJournalList @ app.js?1430146173:41(anonymous function) @ app.js?1430146173:41
+5app.js?1430146173:29 new caster!
+jquery.min.js:2 Resource interpreted as Image but transferred with MIME type binary/octet-stream: "https://s3.amazonaws.com/files.d20.io/marketplace/5543/DKr-H3iJPMKUfdwNnC9qEA/max.png?1339695507".(anonymous function) @ jquery.min.js:2p.extend.access @ jquery.min.js:2p.fn.extend.html @ jquery.min.js:2d20.journal.refreshJournalList @ app.js?1430146173:41(anonymous function) @ app.js?1430146173:41
+jquery.min.js:2 Resource interpreted as Image but transferred with MIME type binary/octet-stream: "https://s3.amazonaws.com/files.d20.io/marketplace/5544/g7zAXVvRCCSzxaK5aSdVFQ/max.png?1339699317".(anonymous function) @ jquery.min.js:2p.extend.access @ jquery.min.js:2p.fn.extend.html @ jquery.min.js:2d20.journal.refreshJournalList @ app.js?1430146173:41(anonymous function) @ app.js?1430146173:41
+8app.js?1430146173:29 new caster!
+jquery.min.js:2 Resource interpreted as Image but transferred with MIME type binary/octet-stream: "https://s3.amazonaws.com/files.d20.io/images/2293304/vqNCSoSWwOtdRiYSCrwF9w/mini.png?1384359808".(anonymous function) @ jquery.min.js:2p.extend.access @ jquery.min.js:2p.fn.extend.html @ jquery.min.js:2d20.journal.refreshJournalList @ app.js?1430146173:41(anonymous function) @ app.js?1430146173:41
+22app.js?1430146173:29 new caster!
+2app.js?1430146173:29 new lamp
+app.roll20dev.net/:1 Mixed Content: The page at 'https://app.roll20dev.net/editor/' was loaded over HTTPS, but requested an insecure image 'http://imgsrv.roll20.net:5100/?src=www.dundjinni.com/forums/uploads/PokerPhaze/4AD_Blood_Splatter_PP.png%3F1409665621&cb=4'. This content should also be served over HTTPS.
+Resource interpreted as Image but transferred with MIME type binary/octet-stream: "https://s3.amazonaws.com/files.d20.io/marketplace/5359/max.png?13395643034".
+Resource interpreted as Image but transferred with MIME type binary/octet-stream: "https://s3.amazonaws.com/files.d20.io/marketplace/5366/max.png?13395651244".
+Resource interpreted as Image but transferred with MIME type binary/octet-stream: "https://s3.amazonaws.com/files.d20.io/marketplace/5880/rdqtBQ9pn-rrzxSOXOoztw/max.png?13399897814".
+Resource interpreted as Image but transferred with MIME type binary/octet-stream: "https://s3.amazonaws.com/files.d20.io/marketplace/5332/max.png?13395195564".
+Resource interpreted as Image but transferred with MIME type binary/octet-stream: "https://s3.amazonaws.com/files.d20.io/marketplace/5952/vblPrZw0bCpOlBcDYlKeeQ/max.png?13400523464".
+Resource interpreted as Image but transferred with MIME type binary/octet-stream: "https://s3.amazonaws.com/files.d20.io/marketplace/5445/max.png?13395976254".
+Resource interpreted as Image but transferred with MIME type binary/octet-stream: "https://s3.amazonaws.com/files.d20.io/images/716373/MM24ZmCBxVgNclkFUvq7EA/max.png?13619069634".
+Resource interpreted as Image but transferred with MIME type binary/octet-stream: "https://s3.amazonaws.com/files.d20.io/images/376058/1hcXq93mM2gpg6L1UeG4jQ/max.png?13530702484".
+Resource interpreted as Image but transferred with MIME type binary/octet-stream: "https://s3.amazonaws.com/files.d20.io/marketplace/37808/CIm5Mku10l4jscmO_wstdQ/max.png?13983139814".
+app.js?1430146173:32 Swapping https://s3.amazonaws.com/files.d20.io/marketplace/5359/max.png?13395643034 to https://s3.amazonaws.com/files.d20.io/marketplace/5359/thumb.png?13395643034
+app.js?1430146173:32 Swapping https://s3.amazonaws.com/files.d20.io/marketplace/5366/max.png?13395651244 to https://s3.amazonaws.com/files.d20.io/marketplace/5366/thumb.png?13395651244
+app.js?1430146173:32 Swapping https://s3.amazonaws.com/files.d20.io/marketplace/5332/max.png?13395195564 to https://s3.amazonaws.com/files.d20.io/marketplace/5332/thumb.png?13395195564
+app.js?1430146173:32 Swapping https://s3.amazonaws.com/files.d20.io/marketplace/5880/rdqtBQ9pn-rrzxSOXOoztw/max.png?13399897814 to https://s3.amazonaws.com/files.d20.io/marketplace/5880/rdqtBQ9pn-rrzxSOXOoztw/thumb.png?13399897814
+app.js?1430146173:32 Swapping https://s3.amazonaws.com/files.d20.io/marketplace/5952/vblPrZw0bCpOlBcDYlKeeQ/max.png?13400523464 to https://s3.amazonaws.com/files.d20.io/marketplace/5952/vblPrZw0bCpOlBcDYlKeeQ/thumb.png?13400523464
+jquery.min.js:2 Resource interpreted as Image but transferred with MIME type binary/octet-stream: "https://s3.amazonaws.com/files.d20.io/images/2348375/gMNDOe7cQRF0s4gGWohG1g/med.png?1385051550".(anonymous function) @ jquery.min.js:2p.extend.access @ jquery.min.js:2p.fn.extend.html @ jquery.min.js:2d20.models.InitiativeWindow.Backbone.View.extend._rebuildInitiativeList @ app.js?1430146173:34k.debounce.n @ base.js?1429019847:1
+app.js?1430146173:32 Swapping https://s3.amazonaws.com/files.d20.io/marketplace/5445/max.png?13395976254 to https://s3.amazonaws.com/files.d20.io/marketplace/5445/thumb.png?13395976254
+jquery.min.js:2 Resource interpreted as Image but transferred with MIME type binary/octet-stream: "https://s3.amazonaws.com/files.d20.io/marketplace/5964/lnyyQoaOY697JkizfKs4FA/max.png?1340057849".(anonymous function) @ jquery.min.js:2p.extend.access @ jquery.min.js:2p.fn.extend.html @ jquery.min.js:2d20.models.InitiativeWindow.Backbone.View.extend._rebuildInitiativeList @ app.js?1430146173:34k.debounce.n @ base.js?1429019847:1
+app.js?1430146173:32 Swapping https://s3.amazonaws.com/files.d20.io/images/716373/MM24ZmCBxVgNclkFUvq7EA/max.png?13619069634 to https://s3.amazonaws.com/files.d20.io/images/716373/MM24ZmCBxVgNclkFUvq7EA/thumb.png?13619069634
+jquery.min.js:2 Resource interpreted as Image but transferred with MIME type binary/octet-stream: "https://s3.amazonaws.com/files.d20.io/images/716373/MM24ZmCBxVgNclkFUvq7EA/max.png?1361906963".(anonymous function) @ jquery.min.js:2p.extend.access @ jquery.min.js:2p.fn.extend.html @ jquery.min.js:2d20.models.InitiativeWindow.Backbone.View.extend._rebuildInitiativeList @ app.js?1430146173:34k.debounce.n @ base.js?1429019847:1
+app.js?1430146173:32 Resource interpreted as Image but transferred with MIME type binary/octet-stream: "https://s3.amazonaws.com/files.d20.io/marketplace/5359/thumb.png?13395643034".Backbone.View.extend.checkImageSizing @ app.js?1430146173:32Backbone.View.extend.syncToEditor @ app.js?1430146173:32Backbone.View.extend.fullyActivateView.fabric.Image.fromURL.usecors @ app.js?1430146173:32e.fabric.Image.fabric.Image.fromURL.n.onload @ app.js?1430146173:28
+2app.js?1430146173:32 Swapping https://s3.amazonaws.com/files.d20.io/images/716373/MM24ZmCBxVgNclkFUvq7EA/max.png?13619069634 to https://s3.amazonaws.com/files.d20.io/images/716373/MM24ZmCBxVgNclkFUvq7EA/thumb.png?13619069634
+app.js?1430146173:32 Resource interpreted as Image but transferred with MIME type binary/octet-stream: "https://s3.amazonaws.com/files.d20.io/marketplace/5366/thumb.png?13395651244".Backbone.View.extend.checkImageSizing @ app.js?1430146173:32Backbone.View.extend.syncToEditor @ app.js?1430146173:32Backbone.View.extend.fullyActivateView.fabric.Image.fromURL.usecors @ app.js?1430146173:32e.fabric.Image.fabric.Image.fromURL.n.onload @ app.js?1430146173:28
+app.js?1430146173:32 Swapping http://imgsrv.roll20.net:5100/?src=www.dundjinni.com/forums/uploads/PokerPhaze/4AD_Blood_Splatter_PP.png%3F1409665621&cb=4 to http://imgsrv.roll20.net/?src=www.dundjinni.com/forums/uploads/PokerPhaze/4AD_Blood_Splatter_PP.png%3F1409665621&cb=4
+app.js?1430146173:32 Mixed Content: The page at 'https://app.roll20dev.net/editor/' was loaded over HTTPS, but requested an insecure image 'http://imgsrv.roll20.net/?src=www.dundjinni.com/forums/uploads/PokerPhaze/4AD_Blood_Splatter_PP.png%3F1409665621&cb=4'. This content should also be served over HTTPS.
+app.js?1430146173:32 Resource interpreted as Image but transferred with MIME type binary/octet-stream: "https://s3.amazonaws.com/files.d20.io/marketplace/5332/thumb.png?13395195564".Backbone.View.extend.checkImageSizing @ app.js?1430146173:32Backbone.View.extend.syncToEditor @ app.js?1430146173:32Backbone.View.extend.fullyActivateView.fabric.Image.fromURL.usecors @ app.js?1430146173:32e.fabric.Image.fabric.Image.fromURL.n.onload @ app.js?1430146173:28
+app.js?1430146173:32 Swapping http://imgsrv.roll20.net:5100/?src=www.dundjinni.com/forums/uploads/PokerPhaze/4AD_Blood_Splatter_PP.png%3F1409665621&cb=4 to http://imgsrv.roll20.net/?src=www.dundjinni.com/forums/uploads/PokerPhaze/4AD_Blood_Splatter_PP.png%3F1409665621&cb=4
+app.js?1430146173:32 Mixed Content: The page at 'https://app.roll20dev.net/editor/' was loaded over HTTPS, but requested an insecure image 'http://imgsrv.roll20.net/?src=www.dundjinni.com/forums/uploads/PokerPhaze/4AD_Blood_Splatter_PP.png%3F1409665621&cb=4'. This content should also be served over HTTPS.
+app.js?1430146173:32 Swapping https://s3.amazonaws.com/files.d20.io/images/376058/1hcXq93mM2gpg6L1UeG4jQ/max.png?13530702484 to https://s3.amazonaws.com/files.d20.io/images/376058/1hcXq93mM2gpg6L1UeG4jQ/thumb.png?13530702484
+app.js?1430146173:32 Resource interpreted as Image but transferred with MIME type binary/octet-stream: "https://s3.amazonaws.com/files.d20.io/marketplace/5880/rdqtBQ9pn-rrzxSOXOoztw/thumb.png?13399897814".Backbone.View.extend.checkImageSizing @ app.js?1430146173:32Backbone.View.extend.syncToEditor @ app.js?1430146173:32Backbone.View.extend.fullyActivateView.fabric.Image.fromURL.usecors @ app.js?1430146173:32e.fabric.Image.fabric.Image.fromURL.n.onload @ app.js?1430146173:28
+app.js?1430146173:32 Swapping https://s3.amazonaws.com/files.d20.io/images/6671/max.png?13363453504 to https://s3.amazonaws.com/files.d20.io/images/6671/thumb.png?13363453504
+app.js?1430146173:32 Swapping https://s3.amazonaws.com/files.d20.io/marketplace/37808/CIm5Mku10l4jscmO_wstdQ/max.png?13983139814 to https://s3.amazonaws.com/files.d20.io/marketplace/37808/CIm5Mku10l4jscmO_wstdQ/thumb.png?13983139814
+app.js?1430146173:32 Resource interpreted as Image but transferred with MIME type binary/octet-stream: "https://s3.amazonaws.com/files.d20.io/marketplace/5952/vblPrZw0bCpOlBcDYlKeeQ/thumb.png?13400523464".Backbone.View.extend.checkImageSizing @ app.js?1430146173:32Backbone.View.extend.syncToEditor @ app.js?1430146173:32Backbone.View.extend.fullyActivateView.fabric.Image.fromURL.usecors @ app.js?1430146173:32e.fabric.Image.fabric.Image.fromURL.n.onload @ app.js?1430146173:28
+app.js?1430146173:32 Resource interpreted as Image but transferred with MIME type binary/octet-stream: "https://s3.amazonaws.com/files.d20.io/marketplace/5445/thumb.png?13395976254".Backbone.View.extend.checkImageSizing @ app.js?1430146173:32Backbone.View.extend.syncToEditor @ app.js?1430146173:32Backbone.View.extend.fullyActivateView.fabric.Image.fromURL.usecors @ app.js?1430146173:32e.fabric.Image.fabric.Image.fromURL.n.onload @ app.js?1430146173:28
+app.js?1430146173:32 Resource interpreted as Image but transferred with MIME type binary/octet-stream: "https://s3.amazonaws.com/files.d20.io/images/716373/MM24ZmCBxVgNclkFUvq7EA/thumb.png?13619069634".Backbone.View.extend.checkImageSizing @ app.js?1430146173:32Backbone.View.extend.syncToEditor @ app.js?1430146173:32Backbone.View.extend.fullyActivateView.fabric.Image.fromURL.usecors @ app.js?1430146173:32e.fabric.Image.fabric.Image.fromURL.n.onload @ app.js?1430146173:28
+app.js?1430146173:32 Resource interpreted as Image but transferred with MIME type binary/octet-stream: "https://s3.amazonaws.com/files.d20.io/images/376058/1hcXq93mM2gpg6L1UeG4jQ/thumb.png?13530702484".Backbone.View.extend.checkImageSizing @ app.js?1430146173:32Backbone.View.extend.syncToEditor @ app.js?1430146173:32Backbone.View.extend.fullyActivateView.fabric.Image.fromURL.usecors @ app.js?1430146173:32e.fabric.Image.fabric.Image.fromURL.n.onload @ app.js?1430146173:28
+app.js?1430146173:32 Resource interpreted as Image but transferred with MIME type binary/octet-stream: "https://s3.amazonaws.com/files.d20.io/marketplace/37808/CIm5Mku10l4jscmO_wstdQ/thumb.png?13983139814".Backbone.View.extend.checkImageSizing @ app.js?1430146173:32Backbone.View.extend.syncToEditor @ app.js?1430146173:32Backbone.View.extend.fullyActivateView.fabric.Image.fromURL.usecors @ app.js?1430146173:32e.fabric.Image.fabric.Image.fromURL.n.onload @ app.js?1430146173:28
+4app.js?1430146173:29 new lamp
+10app.js?1430146173:32 setting src
+app.js?1430146173:32 Mixed Content: The page at 'https://app.roll20dev.net/editor/' was loaded over HTTPS, but requested an insecure image 'http://imgsrv.roll20.net/?src=www.dundjinni.com/forums/uploads/PokerPhaze/4AD_Blood_Splatter_PP.png%3F1409665621&cb=4'. This content should also be served over HTTPS.
+app.js?1430146173:32 Mixed Content: The page at 'https://app.roll20dev.net/editor/' was loaded over HTTPS, but requested an insecure image 'http://imgsrv.roll20.net/?src=www.dundjinni.com/forums/uploads/PokerPhaze/4AD_Blood_Splatter_PP.png%3F1409665621&cb=4'. This content should also be served over HTTPS.
+app.js?1430146173:32 setting src
+app.js?1430146173:32 Mixed Content: The page at 'https://app.roll20dev.net/editor/' was loaded over HTTPS, but requested an insecure image 'http://imgsrv.roll20.net/?src=www.dundjinni.com/forums/uploads/PokerPhaze/4AD_Blood_Splatter_PP.png%3F1409665621&cb=4'. This content should also be served over HTTPS.
+app.js?1430146173:32 Mixed Content: The page at 'https://app.roll20dev.net/editor/' was loaded over HTTPS, but requested an insecure image 'http://imgsrv.roll20.net/?src=www.dundjinni.com/forums/uploads/PokerPhaze/4AD_Blood_Splatter_PP.png%3F1409665621&cb=4'. This content should also be served over HTTPS.
+3app.js?1430146173:32 setting src
+app.js?1430146173:33 Reorder by ZORDER
+max.jpg:1 GET https://s3.amazonaws.com/files.d20.io/images/610547/gttKs4ccvNs19YXhfQ52qg/max.jpg?13600019754 403 (Forbidden)
+med.png:1 GET https://s3.amazonaws.com/files.d20.io/images/2239911/0o-_pigr3n9na2o-Yg5z0Q/med.png?13837650234 403 (Forbidden)
+app.js?1430146173:28 Cols: 2 Rows: 2
+app.js?1430146173:28 Took 1ms to generate cache.
+app.js?1430146173:32 Swapping https://s3.amazonaws.com/files.d20.io/marketplace/5089/max.png?13391919264 to https://s3.amazonaws.com/files.d20.io/marketplace/5089/original.png?13391919264
+3app.js?1430146173:36 Updating character sheet values
+app.js?1430146173:28 Error loading image, probably due to cors. Trying once without CORS for https://s3.amazonaws.com/files.d20.io/images/610547/gttKs4ccvNs19YXhfQ52qg/max.jpg?1360001975
+2app.js?1430146173:28 Error loading image, probably due to cors. Trying once without CORS for https://s3.amazonaws.com/files.d20.io/images/2239911/0o-_pigr3n9na2o-Yg5z0Q/med.png?1383765023
+max.png:1 GET https://s3.amazonaws.com/files.d20.io/images/2239796/rp_gVNK2lzzlIa3GCpEbhQ/max.png?1383763959 403 (Forbidden)
+app.js?1430146173:36 Updating character sheet values
+app.js?1430146173:32 setting src
+11app.js?1430146173:36 Updating character sheet values
+app.js?1430146173:33 Reorder by ZORDER
+13app.js?1430146173:36 Updating character sheet values
+app.js?1430146173:39 Descending into madness...
+app.js?1430146173:41 Error while checking for crit in roll...
+app.js?1430146173:41 Error while checking for fumble in roll...
+5app.js?1430146173:39 Descending into madness...
+app.js?1430146173:41 Error while checking for crit in roll...
+app.js?1430146173:41 Error while checking for fumble in roll...
+app.js?1430146173:39 Descending into madness...
+6app.js?1430146173:39 Descending into madness...
+2app.js?1430146173:39 Descending into madness...
+9app.js?1430146173:39 Descending into madness...
+app.js?1430146173:41 Error while checking for crit in roll...
+app.js?1430146173:41 Error while checking for fumble in roll...
+app.js?1430146173:41 Error while checking for crit in roll...
+app.js?1430146173:41 Error while checking for crit in roll...
+app.js?1430146173:41 Error while checking for fumble in roll...
+app.js?1430146173:41 Error while checking for crit in roll...
+app.js?1430146173:41 Error while checking for crit in roll...
+app.js?1430146173:41 Error while checking for fumble in roll...
+app.js?1430146173:41 Error while checking for crit in roll...
+app.js?1430146173:41 Error while checking for crit in roll...
+app.js?1430146173:41 Error while checking for fumble in roll...
+app.js?1430146173:41 Error while checking for crit in roll...
+app.js?1430146173:41 Error while checking for crit in roll...
+app.js?1430146173:41 Error while checking for fumble in roll...
+app.js?1430146173:41 Error while checking for crit in roll...
+app.js?1430146173:41 Error while checking for crit in roll...
+app.js?1430146173:41 Error while checking for fumble in roll...
+app.js?1430146173:41 Error while checking for crit in roll...
+app.js?1430146173:41 Error while checking for crit in roll...
+app.js?1430146173:41 Error while checking for fumble in roll...
+app.js?1430146173:41 Error while checking for crit in roll...
+app.js?1430146173:41 Error while checking for crit in roll...
+app.js?1430146173:41 Error while checking for fumble in roll...
+app.js?1430146173:41 Error while checking for crit in roll...
+app.js?1430146173:41 Error while checking for crit in roll...
+app.js?1430146173:41 Error while checking for fumble in roll...
+app.js?1430146173:41 Error while checking for crit in roll...
+2app.js?1430146173:41 Error while checking for crit in roll...
+app.js?1430146173:41 Error while checking for crit in roll...
+app.js?1430146173:41 Error while checking for fumble in roll...
+app.js?1430146173:41 Error while checking for crit in roll...
+app.js?1430146173:41 Error while checking for crit in roll...
+app.js?1430146173:41 Error while checking for fumble in roll...
+app.js?1430146173:41 Error while checking for crit in roll...
+app.js?1430146173:41 Error while checking for crit in roll...
+app.js?1430146173:41 Error while checking for fumble in roll...
+app.js?1430146173:41 Error while checking for crit in roll...
+app.js?1430146173:41 Error while checking for crit in roll...
+app.js?1430146173:41 Error while checking for fumble in roll...
+app.js?1430146173:41 Error while checking for crit in roll...
+app.js?1430146173:41 Error while checking for crit in roll...
+app.js?1430146173:41 Error while checking for fumble in roll...
+app.js?1430146173:41 Error while checking for crit in roll...
+app.js?1430146173:41 Error while checking for crit in roll...
+app.js?1430146173:41 Error while checking for fumble in roll...
+app.js?1430146173:41 Error while checking for crit in roll...
+4app.js?1430146173:41 Error while checking for crit in roll...
+app.js?1430146173:41 Error while checking for crit in roll...
+app.js?1430146173:41 Error while checking for fumble in roll...
+app.js?1430146173:41 Error while checking for crit in roll...
+app.js?1430146173:41 Error while checking for crit in roll...
+app.js?1430146173:41 Error while checking for fumble in roll...
+app.js?1430146173:41 Error while checking for crit in roll...
+app.js?1430146173:41 Error while checking for crit in roll...
+app.js?1430146173:41 Error while checking for fumble in roll...
+app.js?1430146173:41 Error while checking for crit in roll...
+app.js?1430146173:41 Error while checking for crit in roll...
+app.js?1430146173:41 Error while checking for fumble in roll...
+app.js?1430146173:41 Error while checking for crit in roll...
+app.js?1430146173:41 Error while checking for crit in roll...
+app.js?1430146173:41 Error while checking for fumble in roll...
+app.js?1430146173:41 Error while checking for crit in roll...
+app.js?1430146173:41 Error while checking for crit in roll...
+app.js?1430146173:41 Error while checking for fumble in roll...
+app.js?1430146173:41 Error while checking for crit in roll...
+app.js?1430146173:41 Error while checking for crit in roll...
+app.js?1430146173:41 Error while checking for fumble in roll...
+app.js?1430146173:41 Error while checking for crit in roll...
+app.js?1430146173:41 Error while checking for crit in roll...
+app.js?1430146173:41 Error while checking for fumble in roll...
+app.js?1430146173:41 Error while checking for crit in roll...
+app.js?1430146173:41 Error while checking for crit in roll...
+app.js?1430146173:41 Error while checking for fumble in roll...
+app.js?1430146173:41 Error while checking for crit in roll...
+app.js?1430146173:41 Error while checking for crit in roll...
+app.js?1430146173:41 Error while checking for fumble in roll...
+app.js?1430146173:41 Error while checking for crit in roll...
+app.js?1430146173:41 Error while checking for crit in roll...
+app.js?1430146173:41 Error while checking for fumble in roll...
+app.js?1430146173:41 Error while checking for crit in roll...
+app.js?1430146173:41 Error while checking for crit in roll...
+app.js?1430146173:41 Error while checking for fumble in roll...
+app.js?1430146173:41 Error while checking for crit in roll...
+app.js?1430146173:41 Error while checking for crit in roll...
+app.js?1430146173:41 Error while checking for fumble in roll...
+app.js?1430146173:41 Error while checking for crit in roll...
+app.js?1430146173:41 Error while checking for crit in roll...
+app.js?1430146173:41 Error while checking for fumble in roll...
+app.js?1430146173:41 Error while checking for crit in roll...
+app.js?1430146173:41 Error while checking for crit in roll...
+app.js?1430146173:41 Error while checking for fumble in roll...
+app.js?1430146173:41 Error while checking for crit in roll...
+app.js?1430146173:41 Error while checking for crit in roll...
+app.js?1430146173:41 Error while checking for fumble in roll...
+app.js?1430146173:41 Error while checking for crit in roll...
+app.js?1430146173:41 Error while checking for crit in roll...
+app.js?1430146173:41 Error while checking for fumble in roll...
+app.js?1430146173:41 Error while checking for crit in roll...
+app.js?1430146173:41 Error while checking for crit in roll...
+app.js?1430146173:41 Error while checking for fumble in roll...
+app.js?1430146173:41 Error while checking for crit in roll...
+app.js?1430146173:41 Error while checking for crit in roll...
+app.js?1430146173:41 Error while checking for fumble in roll...
+app.js?1430146173:41 Error while checking for crit in roll...
+app.js?1430146173:41 Error while checking for crit in roll...
+app.js?1430146173:41 Error while checking for fumble in roll...
+app.js?1430146173:41 Error while checking for crit in roll...
+app.js?1430146173:41 Error while checking for crit in roll...
+app.js?1430146173:41 Error while checking for fumble in roll...
+app.js?1430146173:41 Error while checking for crit in roll...
+app.js?1430146173:41 Error while checking for crit in roll...
+app.js?1430146173:41 Error while checking for fumble in roll...
+app.js?1430146173:41 Error while checking for crit in roll...
+app.js?1430146173:41 Error while checking for crit in roll...
+app.js?1430146173:41 Error while checking for fumble in roll...
+app.js?1430146173:41 Error while checking for crit in roll...
+app.js?1430146173:41 Error while checking for crit in roll...
+app.js?1430146173:41 Error while checking for fumble in roll...
+app.js?1430146173:41 Error while checking for crit in roll...
+app.js?1430146173:41 Error while checking for crit in roll...
+app.js?1430146173:41 Error while checking for fumble in roll...
+app.js?1430146173:41 Error while checking for crit in roll...
+app.js?1430146173:41 Error while checking for crit in roll...
+app.js?1430146173:41 Error while checking for fumble in roll...
+app.js?1430146173:41 Error while checking for crit in roll...
+app.js?1430146173:41 Error while checking for crit in roll...
+app.js?1430146173:41 Error while checking for fumble in roll...
+app.js?1430146173:41 Error while checking for crit in roll...
+app.js?1430146173:41 Error while checking for crit in roll...
+app.js?1430146173:41 Error while checking for fumble in roll...
+app.js?1430146173:41 Error while checking for crit in roll...
+app.js?1430146173:41 Error while checking for crit in roll...
+app.js?1430146173:41 Error while checking for fumble in roll...
+app.js?1430146173:41 Error while checking for crit in roll...
+app.js?1430146173:41 Error while checking for crit in roll...
+app.js?1430146173:41 Error while checking for fumble in roll...
+app.js?1430146173:41 Error while checking for crit in roll...
+app.js?1430146173:41 Error while checking for crit in roll...
+app.js?1430146173:41 Error while checking for fumble in roll...
+app.js?1430146173:41 Error while checking for crit in roll...
+app.js?1430146173:41 Error while checking for crit in roll...
+app.js?1430146173:41 Error while checking for fumble in roll...
+app.js?1430146173:41 Error while checking for crit in roll...
+app.js?1430146173:41 Error while checking for crit in roll...
+app.js?1430146173:41 Error while checking for fumble in roll...
+app.js?1430146173:41 Error while checking for crit in roll...
+app.js?1430146173:41 Error while checking for crit in roll...
+app.js?1430146173:41 Error while checking for fumble in roll...
+app.js?1430146173:41 Error while checking for crit in roll...
+app.js?1430146173:41 Error while checking for crit in roll...
+app.js?1430146173:41 Error while checking for fumble in roll...
+app.js?1430146173:41 Error while checking for crit in roll...
+app.js?1430146173:41 Error while checking for crit in roll...
+app.js?1430146173:41 Error while checking for fumble in roll...
+app.js?1430146173:41 Error while checking for crit in roll...
+app.js?1430146173:41 Error while checking for crit in roll...
+app.js?1430146173:41 Error while checking for fumble in roll...
+app.js?1430146173:41 Error while checking for crit in roll...
+app.js?1430146173:41 Error while checking for crit in roll...
+app.js?1430146173:41 Error while checking for fumble in roll...
+app.js?1430146173:41 Error while checking for crit in roll...
+max.jpg:1 GET https://s3.amazonaws.com/files.d20.io/images/610547/gttKs4ccvNs19YXhfQ52qg/max.jpg?1360001975 403 (Forbidden)
+med.png:1 GET https://s3.amazonaws.com/files.d20.io/images/2239911/0o-_pigr3n9na2o-Yg5z0Q/med.png?1383765023 403 (Forbidden)
+app.js?1430146173:28 Cols: 2 Rows: 2
+app.js?1430146173:28 Took 25ms to generate cache.
+3app.js?1430146173:36 Updating character sheet values
+jquery.min.js:2 Resource interpreted as Image but transferred with MIME type binary/octet-stream: "https://s3.amazonaws.com/files.d20.io/images/628752/VzQFc68H31ngnWWnBrbAlg/med.jpg?1360375993&size=30".p.extend.clean @ jquery.min.js:2p.buildFragment @ jquery.min.js:2p.fn.extend.domManip @ jquery.min.js:2p.fn.extend.append @ jquery.min.js:2d20.textchat.incoming @ app.js?1430146173:41d20.textchat.startup.a @ app.js?1430146173:41k.debounce.n @ base.js?1429019847:1
+2app.js?1430146173:36 Updating character sheet values
+app.js?1430146173:40 Finished after going 2 levels deep.
+app.js?1430146173:40 Begin processing op!
+app.js?1430146173:40 [[1]]
+app.js?1430146173:40 1
+app.js?1430146173:40 Levels deep: 1
+app.js?1430146173:40 Finished null for index 0
+app.js?1430146173:40 Finished 0
+app.js?1430146173:40 Levels deep: 1
+app.js?1430146173:40 Substituting for 0
+app.js?1430146173:40 &{template:default} {{name=Name}} {{subtags=attacks with a test thing }} {{attack1=A1:[[1d20cs>19 +19[BAB] +1[Ability] +0[Ad'l Atk Bon] ]] }} {{critconfirm1=Crit?:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] ]]}} {{fumbleroll=Fumble:[[d20]]}} {{damage1=D1:[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{critdmg1=+[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{attack2=A2:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -5]]}} {{critconfirm2=Crit!:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -5]]}} {{damage2=D2:[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{critdmg2=+[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{attack3=A3:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -10]]}} {{critconfirm3=Crit!:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -10]]}} {{damage3=D3:[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{critdmg3=+[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{attack4=A4:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -15]]}} {{critconfirm4=Crit!:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -15]]}} {{damage4=D4:[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{critdmg4=+[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} 
+app.js?1430146173:40 [[1d20cs>19 +19[BAB] +1[Ability] +0[Ad'l Atk Bon] ]]
+app.js?1430146173:40 1d20cs>19 +19[BAB] +1[Ability] +0[Ad'l Atk Bon]
+app.js?1430146173:40 Levels deep: 0
+app.js?1430146173:40 [[1]]
+app.js?1430146173:40 1
+app.js?1430146173:40 Levels deep: 0
+2app.js?1430146173:40 There's a nested inline roll in here. Ignore for now
+app.js?1430146173:40 [[d20]]
+app.js?1430146173:40 d20
+app.js?1430146173:40 Levels deep: 0
+app.js?1430146173:40 [[1]]
+app.js?1430146173:40 1
+app.js?1430146173:40 Levels deep: 1
+app.js?1430146173:40 Finished null for index 2
+app.js?1430146173:40 Finished 2
+app.js?1430146173:40 Levels deep: 0
+app.js?1430146173:40 &{template:default} {{name=Name}} {{subtags=attacks with a test thing }} {{attack1=A1:$[[1]] }} {{critconfirm1=Crit?:[[1d20cs>19 +19[BAB] +$[[2]][Ability] +0[Ad'l Atk Bon] ]]}} {{fumbleroll=Fumble:$[[3]]}} {{damage1=D1:[[1d6 +$[[4]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{critdmg1=+[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{attack2=A2:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -5]]}} {{critconfirm2=Crit!:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -5]]}} {{damage2=D2:[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{critdmg2=+[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{attack3=A3:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -10]]}} {{critconfirm3=Crit!:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -10]]}} {{damage3=D3:[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{critdmg3=+[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{attack4=A4:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -15]]}} {{critconfirm4=Crit!:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -15]]}} {{damage4=D4:[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{critdmg4=+[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} 
+2app.js?1430146173:40 There's a nested inline roll in here. Ignore for now
+app.js?1430146173:40 [[1]]
+app.js?1430146173:40 1
+app.js?1430146173:40 Levels deep: 3
+app.js?1430146173:40 Finished null for index 4
+app.js?1430146173:40 Finished 4
+app.js?1430146173:40 Levels deep: 1
+app.js?1430146173:40 Substituting for 4
+app.js?1430146173:40 &{template:default} {{name=Name}} {{subtags=attacks with a test thing }} {{attack1=A1:$[[1]] }} {{critconfirm1=Crit?:[[1d20cs>19 +19[BAB] +$[[2]][Ability] +0[Ad'l Atk Bon] ]]}} {{fumbleroll=Fumble:$[[3]]}} {{damage1=D1:[[1d6 +1[Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{critdmg1=+[[1d6 +$[[5]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{attack2=A2:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -5]]}} {{critconfirm2=Crit!:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -5]]}} {{damage2=D2:[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{critdmg2=+[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{attack3=A3:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -10]]}} {{critconfirm3=Crit!:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -10]]}} {{damage3=D3:[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{critdmg3=+[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{attack4=A4:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -15]]}} {{critconfirm4=Crit!:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -15]]}} {{damage4=D4:[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{critdmg4=+[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} 
+app.js?1430146173:40 There's a nested inline roll in here. Ignore for now
+app.js?1430146173:40 [[1d6 +1[Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]
+app.js?1430146173:40 1d6 +1[Weapon Dmg Ability] +0[Ad'l Dmg Bon]
+app.js?1430146173:40 Levels deep: 1
+app.js?1430146173:40 Finished null for index 5
+app.js?1430146173:40 Finished 5
+app.js?1430146173:40 Levels deep: 3
+app.js?1430146173:40 Substituting for 5
+app.js?1430146173:40 &{template:default} {{name=Name}} {{subtags=attacks with a test thing }} {{attack1=A1:$[[1]] }} {{critconfirm1=Crit?:[[1d20cs>19 +19[BAB] +$[[2]][Ability] +0[Ad'l Atk Bon] ]]}} {{fumbleroll=Fumble:$[[3]]}} {{damage1=D1:$[[6]]}} {{critdmg1=+[[1d6 +1[Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{attack2=A2:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -5]]}} {{critconfirm2=Crit!:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -5]]}} {{damage2=D2:[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{critdmg2=+[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{attack3=A3:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -10]]}} {{critconfirm3=Crit!:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -10]]}} {{damage3=D3:[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{critdmg3=+[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{attack4=A4:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -15]]}} {{critconfirm4=Crit!:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -15]]}} {{damage4=D4:[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{critdmg4=+[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} 
+app.js?1430146173:40 There's a nested inline roll in here. Ignore for now
+app.js?1430146173:40 [[1d6 +1[Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]
+app.js?1430146173:40 1d6 +1[Weapon Dmg Ability] +0[Ad'l Dmg Bon]
+app.js?1430146173:40 Levels deep: 1
+app.js?1430146173:40 Finished -JnveC07je9rRQWjxYvU for index 6
+app.js?1430146173:40 Finished 6
+app.js?1430146173:40 Levels deep: 1
+app.js?1430146173:40 Substituting for 6
+app.js?1430146173:40 &{template:default} {{name=Name}} {{subtags=attacks with a test thing }} {{attack1=A1:$[[1]] }} {{critconfirm1=Crit?:[[1d20cs>19 +19[BAB] +$[[2]][Ability] +0[Ad'l Atk Bon] ]]}} {{fumbleroll=Fumble:$[[3]]}} {{damage1=D1:2}} {{critdmg1=+$[[7]]}} {{attack2=A2:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -5]]}} {{critconfirm2=Crit!:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -5]]}} {{damage2=D2:[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{critdmg2=+[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{attack3=A3:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -10]]}} {{critconfirm3=Crit!:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -10]]}} {{damage3=D3:[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{critdmg3=+[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{attack4=A4:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -15]]}} {{critconfirm4=Crit!:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -15]]}} {{damage4=D4:[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{critdmg4=+[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} 
+app.js?1430146173:40 There's a nested inline roll in here. Ignore for now
+app.js?1430146173:40 [[1]]
+app.js?1430146173:40 1
+app.js?1430146173:40 Levels deep: 2
+app.js?1430146173:40 Finished null for index 8
+app.js?1430146173:40 Finished 8
+app.js?1430146173:40 Levels deep: 2
+app.js?1430146173:40 Substituting for 8
+app.js?1430146173:40 &{template:default} {{name=Name}} {{subtags=attacks with a test thing }} {{attack1=A1:$[[1]] }} {{critconfirm1=Crit?:[[1d20cs>19 +19[BAB] +$[[2]][Ability] +0[Ad'l Atk Bon] ]]}} {{fumbleroll=Fumble:$[[3]]}} {{damage1=D1:2}} {{critdmg1=+$[[7]]}} {{attack2=A2:[[1d20cs>19 +19[BAB] +1[Ability] +0[Ad'l Atk Bon] -5]]}} {{critconfirm2=Crit!:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -5]]}} {{damage2=D2:[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{critdmg2=+[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{attack3=A3:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -10]]}} {{critconfirm3=Crit!:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -10]]}} {{damage3=D3:[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{critdmg3=+[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{attack4=A4:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -15]]}} {{critconfirm4=Crit!:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -15]]}} {{damage4=D4:[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{critdmg4=+[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} 
+app.js?1430146173:40 There's a nested inline roll in here. Ignore for now
+app.js?1430146173:40 [[1d20cs>19 +19[BAB] +1[Ability] +0[Ad'l Atk Bon] -5]]
+app.js?1430146173:40 1d20cs>19 +19[BAB] +1[Ability] +0[Ad'l Atk Bon] -5
+app.js?1430146173:40 Levels deep: 1
+app.js?1430146173:40 Finished -JnveC0CiTFxlu8-5eoB for index 7
+app.js?1430146173:40 Finished 7
+app.js?1430146173:40 Levels deep: 1
+app.js?1430146173:40 Substituting for 7
+app.js?1430146173:40 &{template:default} {{name=Name}} {{subtags=attacks with a test thing }} {{attack1=A1:$[[1]] }} {{critconfirm1=Crit?:[[1d20cs>19 +19[BAB] +$[[2]][Ability] +0[Ad'l Atk Bon] ]]}} {{fumbleroll=Fumble:$[[3]]}} {{damage1=D1:2}} {{critdmg1=+4}} {{attack2=A2:$[[9]]}} {{critconfirm2=Crit!:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -5]]}} {{damage2=D2:[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{critdmg2=+[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{attack3=A3:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -10]]}} {{critconfirm3=Crit!:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -10]]}} {{damage3=D3:[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{critdmg3=+[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{attack4=A4:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -15]]}} {{critconfirm4=Crit!:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -15]]}} {{damage4=D4:[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{critdmg4=+[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} 
+app.js?1430146173:40 There's a nested inline roll in here. Ignore for now
+app.js?1430146173:40 [[1]]
+app.js?1430146173:40 1
+app.js?1430146173:40 Levels deep: 2
+app.js?1430146173:40 Finished null for index 10
+app.js?1430146173:40 Finished 10
+app.js?1430146173:40 Levels deep: 2
+app.js?1430146173:40 Substituting for 10
+app.js?1430146173:40 &{template:default} {{name=Name}} {{subtags=attacks with a test thing }} {{attack1=A1:$[[1]] }} {{critconfirm1=Crit?:[[1d20cs>19 +19[BAB] +$[[2]][Ability] +0[Ad'l Atk Bon] ]]}} {{fumbleroll=Fumble:$[[3]]}} {{damage1=D1:2}} {{critdmg1=+4}} {{attack2=A2:$[[9]]}} {{critconfirm2=Crit!:[[1d20cs>19 +19[BAB] +1[Ability] +0[Ad'l Atk Bon] -5]]}} {{damage2=D2:[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{critdmg2=+[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{attack3=A3:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -10]]}} {{critconfirm3=Crit!:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -10]]}} {{damage3=D3:[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{critdmg3=+[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{attack4=A4:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -15]]}} {{critconfirm4=Crit!:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -15]]}} {{damage4=D4:[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{critdmg4=+[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} 
+app.js?1430146173:40 There's a nested inline roll in here. Ignore for now
+app.js?1430146173:40 [[1d20cs>19 +19[BAB] +1[Ability] +0[Ad'l Atk Bon] -5]]
+app.js?1430146173:40 1d20cs>19 +19[BAB] +1[Ability] +0[Ad'l Atk Bon] -5
+app.js?1430146173:40 Levels deep: 1
+app.js?1430146173:40 Finished -JnveC-yDXTdFhlgZFIk for index 1
+app.js?1430146173:40 Finished 1
+app.js?1430146173:40 Levels deep: 0
+app.js?1430146173:40 &{template:default} {{name=Name}} {{subtags=attacks with a test thing }} {{attack1=A1:$[[1]] }} {{critconfirm1=Crit?:[[1d20cs>19 +19[BAB] +$[[2]][Ability] +0[Ad'l Atk Bon] ]]}} {{fumbleroll=Fumble:$[[3]]}} {{damage1=D1:2}} {{critdmg1=+4}} {{attack2=A2:$[[9]]}} {{critconfirm2=Crit!:$[[11]]}} {{damage2=D2:[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{critdmg2=+[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{attack3=A3:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -10]]}} {{critconfirm3=Crit!:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -10]]}} {{damage3=D3:[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{critdmg3=+[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{attack4=A4:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -15]]}} {{critconfirm4=Crit!:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -15]]}} {{damage4=D4:[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{critdmg4=+[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} 
+app.js?1430146173:40 There's a nested inline roll in here. Ignore for now
+app.js?1430146173:40 [[1]]
+app.js?1430146173:40 1
+app.js?1430146173:40 Levels deep: 2
+app.js?1430146173:40 Finished -JnveC0-USssZ7gSeXZt for index 3
+app.js?1430146173:40 Finished 3
+app.js?1430146173:40 Levels deep: 0
+app.js?1430146173:40 &{template:default} {{name=Name}} {{subtags=attacks with a test thing }} {{attack1=A1:$[[1]] }} {{critconfirm1=Crit?:[[1d20cs>19 +19[BAB] +$[[2]][Ability] +0[Ad'l Atk Bon] ]]}} {{fumbleroll=Fumble:$[[3]]}} {{damage1=D1:2}} {{critdmg1=+4}} {{attack2=A2:$[[9]]}} {{critconfirm2=Crit!:$[[11]]}} {{damage2=D2:[[1d6 +$[[12]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{critdmg2=+[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{attack3=A3:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -10]]}} {{critconfirm3=Crit!:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -10]]}} {{damage3=D3:[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{critdmg3=+[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{attack4=A4:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -15]]}} {{critconfirm4=Crit!:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -15]]}} {{damage4=D4:[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{critdmg4=+[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} 
+2app.js?1430146173:40 There's a nested inline roll in here. Ignore for now
+app.js?1430146173:40 [[1]]
+app.js?1430146173:40 1
+app.js?1430146173:40 Levels deep: 3
+app.js?1430146173:40 Finished null for index 12
+app.js?1430146173:40 Finished 12
+app.js?1430146173:40 Levels deep: 2
+app.js?1430146173:40 Substituting for 12
+app.js?1430146173:40 &{template:default} {{name=Name}} {{subtags=attacks with a test thing }} {{attack1=A1:$[[1]] }} {{critconfirm1=Crit?:[[1d20cs>19 +19[BAB] +$[[2]][Ability] +0[Ad'l Atk Bon] ]]}} {{fumbleroll=Fumble:$[[3]]}} {{damage1=D1:2}} {{critdmg1=+4}} {{attack2=A2:$[[9]]}} {{critconfirm2=Crit!:$[[11]]}} {{damage2=D2:[[1d6 +1[Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{critdmg2=+[[1d6 +$[[13]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{attack3=A3:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -10]]}} {{critconfirm3=Crit!:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -10]]}} {{damage3=D3:[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{critdmg3=+[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{attack4=A4:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -15]]}} {{critconfirm4=Crit!:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -15]]}} {{damage4=D4:[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{critdmg4=+[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} 
+app.js?1430146173:40 There's a nested inline roll in here. Ignore for now
+app.js?1430146173:40 [[1d6 +1[Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]
+app.js?1430146173:40 1d6 +1[Weapon Dmg Ability] +0[Ad'l Dmg Bon]
+app.js?1430146173:40 Levels deep: 1
+app.js?1430146173:40 Finished null for index 13
+app.js?1430146173:40 Finished 13
+app.js?1430146173:40 Levels deep: 3
+app.js?1430146173:40 Substituting for 13
+app.js?1430146173:40 &{template:default} {{name=Name}} {{subtags=attacks with a test thing }} {{attack1=A1:$[[1]] }} {{critconfirm1=Crit?:[[1d20cs>19 +19[BAB] +$[[2]][Ability] +0[Ad'l Atk Bon] ]]}} {{fumbleroll=Fumble:$[[3]]}} {{damage1=D1:2}} {{critdmg1=+4}} {{attack2=A2:$[[9]]}} {{critconfirm2=Crit!:$[[11]]}} {{damage2=D2:$[[14]]}} {{critdmg2=+[[1d6 +1[Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{attack3=A3:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -10]]}} {{critconfirm3=Crit!:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -10]]}} {{damage3=D3:[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{critdmg3=+[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{attack4=A4:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -15]]}} {{critconfirm4=Crit!:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -15]]}} {{damage4=D4:[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{critdmg4=+[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} 
+app.js?1430146173:40 There's a nested inline roll in here. Ignore for now
+app.js?1430146173:40 [[1d6 +1[Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]
+app.js?1430146173:40 1d6 +1[Weapon Dmg Ability] +0[Ad'l Dmg Bon]
+app.js?1430146173:40 Levels deep: 1
+app.js?1430146173:40 Finished -JnveC48gYy-Oo2UTD6F for index 9
+app.js?1430146173:40 Finished 9
+app.js?1430146173:40 Levels deep: 1
+app.js?1430146173:40 Substituting for 9
+app.js?1430146173:40 &{template:default} {{name=Name}} {{subtags=attacks with a test thing }} {{attack1=A1:$[[1]] }} {{critconfirm1=Crit?:[[1d20cs>19 +19[BAB] +$[[2]][Ability] +0[Ad'l Atk Bon] ]]}} {{fumbleroll=Fumble:$[[3]]}} {{damage1=D1:2}} {{critdmg1=+4}} {{attack2=A2:34}} {{critconfirm2=Crit!:$[[11]]}} {{damage2=D2:$[[14]]}} {{critdmg2=+$[[15]]}} {{attack3=A3:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -10]]}} {{critconfirm3=Crit!:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -10]]}} {{damage3=D3:[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{critdmg3=+[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{attack4=A4:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -15]]}} {{critconfirm4=Crit!:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -15]]}} {{damage4=D4:[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{critdmg4=+[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} 
+app.js?1430146173:40 There's a nested inline roll in here. Ignore for now
+app.js?1430146173:40 [[1]]
+app.js?1430146173:40 1
+app.js?1430146173:40 Levels deep: 2
+app.js?1430146173:40 Finished null for index 16
+app.js?1430146173:40 Finished 16
+app.js?1430146173:40 Levels deep: 2
+app.js?1430146173:40 Substituting for 16
+app.js?1430146173:40 &{template:default} {{name=Name}} {{subtags=attacks with a test thing }} {{attack1=A1:$[[1]] }} {{critconfirm1=Crit?:[[1d20cs>19 +19[BAB] +$[[2]][Ability] +0[Ad'l Atk Bon] ]]}} {{fumbleroll=Fumble:$[[3]]}} {{damage1=D1:2}} {{critdmg1=+4}} {{attack2=A2:34}} {{critconfirm2=Crit!:$[[11]]}} {{damage2=D2:$[[14]]}} {{critdmg2=+$[[15]]}} {{attack3=A3:[[1d20cs>19 +19[BAB] +1[Ability] +0[Ad'l Atk Bon] -10]]}} {{critconfirm3=Crit!:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -10]]}} {{damage3=D3:[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{critdmg3=+[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{attack4=A4:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -15]]}} {{critconfirm4=Crit!:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -15]]}} {{damage4=D4:[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{critdmg4=+[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} 
+app.js?1430146173:40 There's a nested inline roll in here. Ignore for now
+app.js?1430146173:40 [[1d20cs>19 +19[BAB] +1[Ability] +0[Ad'l Atk Bon] -10]]
+app.js?1430146173:40 1d20cs>19 +19[BAB] +1[Ability] +0[Ad'l Atk Bon] -10
+app.js?1430146173:40 Levels deep: 1
+app.js?1430146173:40 Finished -JnveC5dIjcbmnxmPnh_ for index 11
+app.js?1430146173:40 Finished 11
+app.js?1430146173:40 Levels deep: 1
+app.js?1430146173:40 Substituting for 11
+app.js?1430146173:40 &{template:default} {{name=Name}} {{subtags=attacks with a test thing }} {{attack1=A1:$[[1]] }} {{critconfirm1=Crit?:[[1d20cs>19 +19[BAB] +$[[2]][Ability] +0[Ad'l Atk Bon] ]]}} {{fumbleroll=Fumble:$[[3]]}} {{damage1=D1:2}} {{critdmg1=+4}} {{attack2=A2:34}} {{critconfirm2=Crit!:26}} {{damage2=D2:$[[14]]}} {{critdmg2=+$[[15]]}} {{attack3=A3:$[[17]]}} {{critconfirm3=Crit!:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -10]]}} {{damage3=D3:[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{critdmg3=+[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{attack4=A4:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -15]]}} {{critconfirm4=Crit!:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -15]]}} {{damage4=D4:[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{critdmg4=+[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} 
+app.js?1430146173:40 There's a nested inline roll in here. Ignore for now
+app.js?1430146173:40 [[1]]
+app.js?1430146173:40 1
+app.js?1430146173:40 Levels deep: 2
+app.js?1430146173:40 Finished null for index 18
+app.js?1430146173:40 Finished 18
+app.js?1430146173:40 Levels deep: 2
+app.js?1430146173:40 Substituting for 18
+app.js?1430146173:40 &{template:default} {{name=Name}} {{subtags=attacks with a test thing }} {{attack1=A1:$[[1]] }} {{critconfirm1=Crit?:[[1d20cs>19 +19[BAB] +$[[2]][Ability] +0[Ad'l Atk Bon] ]]}} {{fumbleroll=Fumble:$[[3]]}} {{damage1=D1:2}} {{critdmg1=+4}} {{attack2=A2:34}} {{critconfirm2=Crit!:26}} {{damage2=D2:$[[14]]}} {{critdmg2=+$[[15]]}} {{attack3=A3:$[[17]]}} {{critconfirm3=Crit!:[[1d20cs>19 +19[BAB] +1[Ability] +0[Ad'l Atk Bon] -10]]}} {{damage3=D3:[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{critdmg3=+[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{attack4=A4:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -15]]}} {{critconfirm4=Crit!:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -15]]}} {{damage4=D4:[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{critdmg4=+[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} 
+app.js?1430146173:40 There's a nested inline roll in here. Ignore for now
+app.js?1430146173:40 [[1d20cs>19 +19[BAB] +1[Ability] +0[Ad'l Atk Bon] -10]]
+app.js?1430146173:40 1d20cs>19 +19[BAB] +1[Ability] +0[Ad'l Atk Bon] -10
+app.js?1430146173:40 Levels deep: 1
+app.js?1430146173:40 Finished -JnveC5vjppqEpZrZwp2 for index 14
+app.js?1430146173:40 Finished 14
+app.js?1430146173:40 Levels deep: 1
+app.js?1430146173:40 Substituting for 14
+app.js?1430146173:40 &{template:default} {{name=Name}} {{subtags=attacks with a test thing }} {{attack1=A1:$[[1]] }} {{critconfirm1=Crit?:[[1d20cs>19 +19[BAB] +$[[2]][Ability] +0[Ad'l Atk Bon] ]]}} {{fumbleroll=Fumble:$[[3]]}} {{damage1=D1:2}} {{critdmg1=+4}} {{attack2=A2:34}} {{critconfirm2=Crit!:26}} {{damage2=D2:4}} {{critdmg2=+$[[15]]}} {{attack3=A3:$[[17]]}} {{critconfirm3=Crit!:$[[19]]}} {{damage3=D3:[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{critdmg3=+[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{attack4=A4:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -15]]}} {{critconfirm4=Crit!:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -15]]}} {{damage4=D4:[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{critdmg4=+[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} 
+app.js?1430146173:40 There's a nested inline roll in here. Ignore for now
+app.js?1430146173:40 [[1]]
+app.js?1430146173:40 1
+app.js?1430146173:40 Levels deep: 2
+app.js?1430146173:40 Finished -JnveC5xNeiSwYan1e2C for index 15
+app.js?1430146173:40 Finished 15
+app.js?1430146173:40 Levels deep: 1
+app.js?1430146173:40 Substituting for 15
+app.js?1430146173:40 &{template:default} {{name=Name}} {{subtags=attacks with a test thing }} {{attack1=A1:$[[1]] }} {{critconfirm1=Crit?:[[1d20cs>19 +19[BAB] +$[[2]][Ability] +0[Ad'l Atk Bon] ]]}} {{fumbleroll=Fumble:$[[3]]}} {{damage1=D1:2}} {{critdmg1=+4}} {{attack2=A2:34}} {{critconfirm2=Crit!:26}} {{damage2=D2:4}} {{critdmg2=+2}} {{attack3=A3:$[[17]]}} {{critconfirm3=Crit!:$[[19]]}} {{damage3=D3:[[1d6 +$[[20]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{critdmg3=+[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{attack4=A4:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -15]]}} {{critconfirm4=Crit!:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -15]]}} {{damage4=D4:[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{critdmg4=+[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} 
+2app.js?1430146173:40 There's a nested inline roll in here. Ignore for now
+app.js?1430146173:40 [[1]]
+app.js?1430146173:40 1
+app.js?1430146173:40 Levels deep: 3
+app.js?1430146173:40 Finished null for index 20
+app.js?1430146173:40 Finished 20
+app.js?1430146173:40 Levels deep: 2
+app.js?1430146173:40 Substituting for 20
+app.js?1430146173:40 &{template:default} {{name=Name}} {{subtags=attacks with a test thing }} {{attack1=A1:$[[1]] }} {{critconfirm1=Crit?:[[1d20cs>19 +19[BAB] +$[[2]][Ability] +0[Ad'l Atk Bon] ]]}} {{fumbleroll=Fumble:$[[3]]}} {{damage1=D1:2}} {{critdmg1=+4}} {{attack2=A2:34}} {{critconfirm2=Crit!:26}} {{damage2=D2:4}} {{critdmg2=+2}} {{attack3=A3:$[[17]]}} {{critconfirm3=Crit!:$[[19]]}} {{damage3=D3:[[1d6 +1[Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{critdmg3=+[[1d6 +$[[21]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{attack4=A4:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -15]]}} {{critconfirm4=Crit!:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -15]]}} {{damage4=D4:[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{critdmg4=+[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} 
+app.js?1430146173:40 There's a nested inline roll in here. Ignore for now
+app.js?1430146173:40 [[1d6 +1[Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]
+app.js?1430146173:40 1d6 +1[Weapon Dmg Ability] +0[Ad'l Dmg Bon]
+app.js?1430146173:40 Levels deep: 1
+app.js?1430146173:40 Finished null for index 21
+app.js?1430146173:40 Finished 21
+app.js?1430146173:40 Levels deep: 3
+app.js?1430146173:40 Substituting for 21
+app.js?1430146173:40 &{template:default} {{name=Name}} {{subtags=attacks with a test thing }} {{attack1=A1:$[[1]] }} {{critconfirm1=Crit?:[[1d20cs>19 +19[BAB] +$[[2]][Ability] +0[Ad'l Atk Bon] ]]}} {{fumbleroll=Fumble:$[[3]]}} {{damage1=D1:2}} {{critdmg1=+4}} {{attack2=A2:34}} {{critconfirm2=Crit!:26}} {{damage2=D2:4}} {{critdmg2=+2}} {{attack3=A3:$[[17]]}} {{critconfirm3=Crit!:$[[19]]}} {{damage3=D3:$[[22]]}} {{critdmg3=+[[1d6 +1[Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{attack4=A4:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -15]]}} {{critconfirm4=Crit!:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -15]]}} {{damage4=D4:[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{critdmg4=+[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} 
+app.js?1430146173:40 There's a nested inline roll in here. Ignore for now
+app.js?1430146173:40 [[1d6 +1[Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]
+app.js?1430146173:40 1d6 +1[Weapon Dmg Ability] +0[Ad'l Dmg Bon]
+app.js?1430146173:40 Levels deep: 1
+app.js?1430146173:40 Finished -JnveC6bUhoxbPWptbdX for index 17
+app.js?1430146173:40 Finished 17
+app.js?1430146173:40 Levels deep: 1
+app.js?1430146173:40 Substituting for 17
+app.js?1430146173:40 &{template:default} {{name=Name}} {{subtags=attacks with a test thing }} {{attack1=A1:$[[1]] }} {{critconfirm1=Crit?:[[1d20cs>19 +19[BAB] +$[[2]][Ability] +0[Ad'l Atk Bon] ]]}} {{fumbleroll=Fumble:$[[3]]}} {{damage1=D1:2}} {{critdmg1=+4}} {{attack2=A2:34}} {{critconfirm2=Crit!:26}} {{damage2=D2:4}} {{critdmg2=+2}} {{attack3=A3:20}} {{critconfirm3=Crit!:$[[19]]}} {{damage3=D3:$[[22]]}} {{critdmg3=+$[[23]]}} {{attack4=A4:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -15]]}} {{critconfirm4=Crit!:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -15]]}} {{damage4=D4:[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{critdmg4=+[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} 
+app.js?1430146173:40 There's a nested inline roll in here. Ignore for now
+app.js?1430146173:40 [[1]]
+app.js?1430146173:40 1
+app.js?1430146173:40 Levels deep: 2
+app.js?1430146173:40 Finished null for index 24
+app.js?1430146173:40 Finished 24
+app.js?1430146173:40 Levels deep: 2
+app.js?1430146173:40 Substituting for 24
+app.js?1430146173:40 &{template:default} {{name=Name}} {{subtags=attacks with a test thing }} {{attack1=A1:$[[1]] }} {{critconfirm1=Crit?:[[1d20cs>19 +19[BAB] +$[[2]][Ability] +0[Ad'l Atk Bon] ]]}} {{fumbleroll=Fumble:$[[3]]}} {{damage1=D1:2}} {{critdmg1=+4}} {{attack2=A2:34}} {{critconfirm2=Crit!:26}} {{damage2=D2:4}} {{critdmg2=+2}} {{attack3=A3:20}} {{critconfirm3=Crit!:$[[19]]}} {{damage3=D3:$[[22]]}} {{critdmg3=+$[[23]]}} {{attack4=A4:[[1d20cs>19 +19[BAB] +1[Ability] +0[Ad'l Atk Bon] -15]]}} {{critconfirm4=Crit!:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -15]]}} {{damage4=D4:[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{critdmg4=+[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} 
+app.js?1430146173:40 There's a nested inline roll in here. Ignore for now
+app.js?1430146173:40 [[1d20cs>19 +19[BAB] +1[Ability] +0[Ad'l Atk Bon] -15]]
+app.js?1430146173:40 1d20cs>19 +19[BAB] +1[Ability] +0[Ad'l Atk Bon] -15
+app.js?1430146173:40 Levels deep: 1
+app.js?1430146173:40 Finished -JnveC7AeaXmZmVAFd6n for index 19
+app.js?1430146173:40 Finished 19
+app.js?1430146173:40 Levels deep: 1
+app.js?1430146173:40 Substituting for 19
+app.js?1430146173:40 &{template:default} {{name=Name}} {{subtags=attacks with a test thing }} {{attack1=A1:$[[1]] }} {{critconfirm1=Crit?:[[1d20cs>19 +19[BAB] +$[[2]][Ability] +0[Ad'l Atk Bon] ]]}} {{fumbleroll=Fumble:$[[3]]}} {{damage1=D1:2}} {{critdmg1=+4}} {{attack2=A2:34}} {{critconfirm2=Crit!:26}} {{damage2=D2:4}} {{critdmg2=+2}} {{attack3=A3:20}} {{critconfirm3=Crit!:20}} {{damage3=D3:$[[22]]}} {{critdmg3=+$[[23]]}} {{attack4=A4:$[[25]]}} {{critconfirm4=Crit!:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -15]]}} {{damage4=D4:[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{critdmg4=+[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} 
+app.js?1430146173:40 There's a nested inline roll in here. Ignore for now
+app.js?1430146173:40 [[1]]
+app.js?1430146173:40 1
+app.js?1430146173:40 Levels deep: 2
+app.js?1430146173:40 Finished null for index 26
+app.js?1430146173:40 Finished 26
+app.js?1430146173:40 Levels deep: 2
+app.js?1430146173:40 Substituting for 26
+app.js?1430146173:40 &{template:default} {{name=Name}} {{subtags=attacks with a test thing }} {{attack1=A1:$[[1]] }} {{critconfirm1=Crit?:[[1d20cs>19 +19[BAB] +$[[2]][Ability] +0[Ad'l Atk Bon] ]]}} {{fumbleroll=Fumble:$[[3]]}} {{damage1=D1:2}} {{critdmg1=+4}} {{attack2=A2:34}} {{critconfirm2=Crit!:26}} {{damage2=D2:4}} {{critdmg2=+2}} {{attack3=A3:20}} {{critconfirm3=Crit!:20}} {{damage3=D3:$[[22]]}} {{critdmg3=+$[[23]]}} {{attack4=A4:$[[25]]}} {{critconfirm4=Crit!:[[1d20cs>19 +19[BAB] +1[Ability] +0[Ad'l Atk Bon] -15]]}} {{damage4=D4:[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{critdmg4=+[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} 
+app.js?1430146173:40 There's a nested inline roll in here. Ignore for now
+app.js?1430146173:40 [[1d20cs>19 +19[BAB] +1[Ability] +0[Ad'l Atk Bon] -15]]
+app.js?1430146173:40 1d20cs>19 +19[BAB] +1[Ability] +0[Ad'l Atk Bon] -15
+app.js?1430146173:40 Levels deep: 1
+app.js?1430146173:40 Finished -JnveC7ReWgvwN7_g2uY for index 22
+app.js?1430146173:40 Finished 22
+app.js?1430146173:40 Levels deep: 1
+app.js?1430146173:40 Substituting for 22
+app.js?1430146173:40 &{template:default} {{name=Name}} {{subtags=attacks with a test thing }} {{attack1=A1:$[[1]] }} {{critconfirm1=Crit?:[[1d20cs>19 +19[BAB] +$[[2]][Ability] +0[Ad'l Atk Bon] ]]}} {{fumbleroll=Fumble:$[[3]]}} {{damage1=D1:2}} {{critdmg1=+4}} {{attack2=A2:34}} {{critconfirm2=Crit!:26}} {{damage2=D2:4}} {{critdmg2=+2}} {{attack3=A3:20}} {{critconfirm3=Crit!:20}} {{damage3=D3:3}} {{critdmg3=+$[[23]]}} {{attack4=A4:$[[25]]}} {{critconfirm4=Crit!:$[[27]]}} {{damage4=D4:[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{critdmg4=+[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} 
+app.js?1430146173:40 There's a nested inline roll in here. Ignore for now
+app.js?1430146173:40 [[1]]
+app.js?1430146173:40 1
+app.js?1430146173:40 Levels deep: 2
+app.js?1430146173:40 Finished -JnveC7SBw4pwHkWBIwR for index 23
+app.js?1430146173:40 Finished 23
+app.js?1430146173:40 Levels deep: 1
+app.js?1430146173:40 Substituting for 23
+app.js?1430146173:40 &{template:default} {{name=Name}} {{subtags=attacks with a test thing }} {{attack1=A1:$[[1]] }} {{critconfirm1=Crit?:[[1d20cs>19 +19[BAB] +$[[2]][Ability] +0[Ad'l Atk Bon] ]]}} {{fumbleroll=Fumble:$[[3]]}} {{damage1=D1:2}} {{critdmg1=+4}} {{attack2=A2:34}} {{critconfirm2=Crit!:26}} {{damage2=D2:4}} {{critdmg2=+2}} {{attack3=A3:20}} {{critconfirm3=Crit!:20}} {{damage3=D3:3}} {{critdmg3=+2}} {{attack4=A4:$[[25]]}} {{critconfirm4=Crit!:$[[27]]}} {{damage4=D4:[[1d6 +$[[28]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{critdmg4=+[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} 
+2app.js?1430146173:40 There's a nested inline roll in here. Ignore for now
+app.js?1430146173:40 [[1]]
+app.js?1430146173:40 1
+app.js?1430146173:40 Levels deep: 3
+app.js?1430146173:40 Finished null for index 28
+app.js?1430146173:40 Finished 28
+app.js?1430146173:40 Levels deep: 2
+app.js?1430146173:40 Substituting for 28
+app.js?1430146173:40 &{template:default} {{name=Name}} {{subtags=attacks with a test thing }} {{attack1=A1:$[[1]] }} {{critconfirm1=Crit?:[[1d20cs>19 +19[BAB] +$[[2]][Ability] +0[Ad'l Atk Bon] ]]}} {{fumbleroll=Fumble:$[[3]]}} {{damage1=D1:2}} {{critdmg1=+4}} {{attack2=A2:34}} {{critconfirm2=Crit!:26}} {{damage2=D2:4}} {{critdmg2=+2}} {{attack3=A3:20}} {{critconfirm3=Crit!:20}} {{damage3=D3:3}} {{critdmg3=+2}} {{attack4=A4:$[[25]]}} {{critconfirm4=Crit!:$[[27]]}} {{damage4=D4:[[1d6 +1[Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{critdmg4=+[[1d6 +$[[29]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} 
+app.js?1430146173:40 There's a nested inline roll in here. Ignore for now
+app.js?1430146173:40 [[1d6 +1[Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]
+app.js?1430146173:40 1d6 +1[Weapon Dmg Ability] +0[Ad'l Dmg Bon]
+app.js?1430146173:40 Levels deep: 1
+app.js?1430146173:40 Finished null for index 29
+app.js?1430146173:40 Finished 29
+app.js?1430146173:40 Levels deep: 3
+app.js?1430146173:40 Substituting for 29
+app.js?1430146173:40 &{template:default} {{name=Name}} {{subtags=attacks with a test thing }} {{attack1=A1:$[[1]] }} {{critconfirm1=Crit?:[[1d20cs>19 +19[BAB] +$[[2]][Ability] +0[Ad'l Atk Bon] ]]}} {{fumbleroll=Fumble:$[[3]]}} {{damage1=D1:2}} {{critdmg1=+4}} {{attack2=A2:34}} {{critconfirm2=Crit!:26}} {{damage2=D2:4}} {{critdmg2=+2}} {{attack3=A3:20}} {{critconfirm3=Crit!:20}} {{damage3=D3:3}} {{critdmg3=+2}} {{attack4=A4:$[[25]]}} {{critconfirm4=Crit!:$[[27]]}} {{damage4=D4:$[[30]]}} {{critdmg4=+[[1d6 +1[Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} 
+app.js?1430146173:40 There's a nested inline roll in here. Ignore for now
+app.js?1430146173:40 [[1d6 +1[Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]
+app.js?1430146173:40 1d6 +1[Weapon Dmg Ability] +0[Ad'l Dmg Bon]
+app.js?1430146173:40 Levels deep: 1
+app.js?1430146173:40 Finished -JnveC8AR3UAGyNRmW0c for index 25
+app.js?1430146173:40 Finished 25
+app.js?1430146173:40 Levels deep: 1
+app.js?1430146173:40 Substituting for 25
+app.js?1430146173:40 &{template:default} {{name=Name}} {{subtags=attacks with a test thing }} {{attack1=A1:$[[1]] }} {{critconfirm1=Crit?:[[1d20cs>19 +19[BAB] +$[[2]][Ability] +0[Ad'l Atk Bon] ]]}} {{fumbleroll=Fumble:$[[3]]}} {{damage1=D1:2}} {{critdmg1=+4}} {{attack2=A2:34}} {{critconfirm2=Crit!:26}} {{damage2=D2:4}} {{critdmg2=+2}} {{attack3=A3:20}} {{critconfirm3=Crit!:20}} {{damage3=D3:3}} {{critdmg3=+2}} {{attack4=A4:25}} {{critconfirm4=Crit!:$[[27]]}} {{damage4=D4:$[[30]]}} {{critdmg4=+$[[31]]}} 
+app.js?1430146173:40 There's a nested inline roll in here. Ignore for now
+app.js?1430146173:40 &{template:default} {{name=Name}} {{subtags=attacks with a test thing }} {{attack1=A1:$[[1]] }} {{critconfirm1=Crit?:[[1d20cs>19 +19[BAB] +$[[2]][Ability] +0[Ad'l Atk Bon] ]]}} {{fumbleroll=Fumble:$[[3]]}} {{damage1=D1:2}} {{critdmg1=+4}} {{attack2=A2:34}} {{critconfirm2=Crit!:26}} {{damage2=D2:4}} {{critdmg2=+2}} {{attack3=A3:20}} {{critconfirm3=Crit!:20}} {{damage3=D3:3}} {{critdmg3=+2}} {{attack4=A4:25}} {{critconfirm4=Crit!:$[[27]]}} {{damage4=D4:$[[30]]}} {{critdmg4=+$[[31]]}} 
+app.js?1430146173:40 Finished -JnveC8dedhcHnEYGxK6 for index 27
+app.js?1430146173:40 Finished 27
+app.js?1430146173:40 Levels deep: 1
+app.js?1430146173:40 Substituting for 27
+app.js?1430146173:40 &{template:default} {{name=Name}} {{subtags=attacks with a test thing }} {{attack1=A1:$[[1]] }} {{critconfirm1=Crit?:[[1d20cs>19 +19[BAB] +$[[2]][Ability] +0[Ad'l Atk Bon] ]]}} {{fumbleroll=Fumble:$[[3]]}} {{damage1=D1:2}} {{critdmg1=+4}} {{attack2=A2:34}} {{critconfirm2=Crit!:26}} {{damage2=D2:4}} {{critdmg2=+2}} {{attack3=A3:20}} {{critconfirm3=Crit!:20}} {{damage3=D3:3}} {{critdmg3=+2}} {{attack4=A4:25}} {{critconfirm4=Crit!:7}} {{damage4=D4:$[[30]]}} {{critdmg4=+$[[31]]}} 
+app.js?1430146173:40 There's a nested inline roll in here. Ignore for now
+app.js?1430146173:40 &{template:default} {{name=Name}} {{subtags=attacks with a test thing }} {{attack1=A1:$[[1]] }} {{critconfirm1=Crit?:[[1d20cs>19 +19[BAB] +$[[2]][Ability] +0[Ad'l Atk Bon] ]]}} {{fumbleroll=Fumble:$[[3]]}} {{damage1=D1:2}} {{critdmg1=+4}} {{attack2=A2:34}} {{critconfirm2=Crit!:26}} {{damage2=D2:4}} {{critdmg2=+2}} {{attack3=A3:20}} {{critconfirm3=Crit!:20}} {{damage3=D3:3}} {{critdmg3=+2}} {{attack4=A4:25}} {{critconfirm4=Crit!:7}} {{damage4=D4:$[[30]]}} {{critdmg4=+$[[31]]}} 
+app.js?1430146173:40 Finished -JnveC8tmiHyfySaUaq2 for index 31
+app.js?1430146173:40 Finished 31
+app.js?1430146173:40 Levels deep: 1
+app.js?1430146173:40 Substituting for 31
+app.js?1430146173:40 &{template:default} {{name=Name}} {{subtags=attacks with a test thing }} {{attack1=A1:$[[1]] }} {{critconfirm1=Crit?:[[1d20cs>19 +19[BAB] +$[[2]][Ability] +0[Ad'l Atk Bon] ]]}} {{fumbleroll=Fumble:$[[3]]}} {{damage1=D1:2}} {{critdmg1=+4}} {{attack2=A2:34}} {{critconfirm2=Crit!:26}} {{damage2=D2:4}} {{critdmg2=+2}} {{attack3=A3:20}} {{critconfirm3=Crit!:20}} {{damage3=D3:3}} {{critdmg3=+2}} {{attack4=A4:25}} {{critconfirm4=Crit!:7}} {{damage4=D4:$[[30]]}} {{critdmg4=+2}} 
+app.js?1430146173:40 There's a nested inline roll in here. Ignore for now
+app.js?1430146173:40 &{template:default} {{name=Name}} {{subtags=attacks with a test thing }} {{attack1=A1:$[[1]] }} {{critconfirm1=Crit?:[[1d20cs>19 +19[BAB] +$[[2]][Ability] +0[Ad'l Atk Bon] ]]}} {{fumbleroll=Fumble:$[[3]]}} {{damage1=D1:2}} {{critdmg1=+4}} {{attack2=A2:34}} {{critconfirm2=Crit!:26}} {{damage2=D2:4}} {{critdmg2=+2}} {{attack3=A3:20}} {{critconfirm3=Crit!:20}} {{damage3=D3:3}} {{critdmg3=+2}} {{attack4=A4:25}} {{critconfirm4=Crit!:7}} {{damage4=D4:$[[30]]}} {{critdmg4=+2}} 
+app.js?1430146173:40 Finished -JnveC8rFN9wu5bc3AW2 for index 30
+app.js?1430146173:40 Finished 30
+app.js?1430146173:40 Levels deep: 1
+app.js?1430146173:40 Substituting for 30
+app.js?1430146173:40 &{template:default} {{name=Name}} {{subtags=attacks with a test thing }} {{attack1=A1:$[[1]] }} {{critconfirm1=Crit?:[[1d20cs>19 +19[BAB] +$[[2]][Ability] +0[Ad'l Atk Bon] ]]}} {{fumbleroll=Fumble:$[[3]]}} {{damage1=D1:2}} {{critdmg1=+4}} {{attack2=A2:34}} {{critconfirm2=Crit!:26}} {{damage2=D2:4}} {{critdmg2=+2}} {{attack3=A3:20}} {{critconfirm3=Crit!:20}} {{damage3=D3:3}} {{critdmg3=+2}} {{attack4=A4:25}} {{critconfirm4=Crit!:7}} {{damage4=D4:5}} {{critdmg4=+2}} 
+app.js?1430146173:40 There's a nested inline roll in here. Ignore for now
+app.js?1430146173:40 &{template:default} {{name=Name}} {{subtags=attacks with a test thing }} {{attack1=A1:$[[1]] }} {{critconfirm1=Crit?:[[1d20cs>19 +19[BAB] +$[[2]][Ability] +0[Ad'l Atk Bon] ]]}} {{fumbleroll=Fumble:$[[3]]}} {{damage1=D1:2}} {{critdmg1=+4}} {{attack2=A2:34}} {{critconfirm2=Crit!:26}} {{damage2=D2:4}} {{critdmg2=+2}} {{attack3=A3:20}} {{critconfirm3=Crit!:20}} {{damage3=D3:3}} {{critdmg3=+2}} {{attack4=A4:25}} {{critconfirm4=Crit!:7}} {{damage4=D4:5}} {{critdmg4=+2}} 
+app.js?1430146173:40 Inline rolls complete!
+app.js?1430146173:40 Finished after going 2 levels deep.
+app.js?1430146173:40 Begin processing op!
+app.js?1430146173:40 [[1]]
+app.js?1430146173:40 1
+app.js?1430146173:40 Levels deep: 1
+app.js?1430146173:40 Finished null for index 0
+app.js?1430146173:40 Finished 0
+app.js?1430146173:40 Levels deep: 1
+app.js?1430146173:40 Substituting for 0
+app.js?1430146173:40 &{template:default} {{name=Name}} {{subtags=attacks with a test thing }} {{A1:[[1d20cs>19 +19[BAB] +1[Ability] +0[Ad'l Atk Bon] ]]=Crit?:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] ]]}} {{fumbleroll=Fumble:[[d20]]}} {{damage1=D1:[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{critdmg1=+[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{A2:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -5]]=Crit!:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -5]]}} {{damage2=D2:[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{critdmg2=+[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{A3:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -10]]=Crit!:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -10]]}} {{damage3=D3:[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{critdmg3=+[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{A4:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -15]]=Crit!:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -15]]}} {{damage4=D4:[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{critdmg4=+[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} 
+app.js?1430146173:40 [[1d20cs>19 +19[BAB] +1[Ability] +0[Ad'l Atk Bon] ]]
+app.js?1430146173:40 1d20cs>19 +19[BAB] +1[Ability] +0[Ad'l Atk Bon]
+app.js?1430146173:40 Levels deep: 0
+app.js?1430146173:40 There's a nested inline roll in here. Ignore for now
+app.js?1430146173:40 [[d20]]
+app.js?1430146173:40 d20
+app.js?1430146173:40 Levels deep: 0
+app.js?1430146173:40 [[1]]
+app.js?1430146173:40 1
+app.js?1430146173:40 Levels deep: 1
+app.js?1430146173:40 Finished null for index 3
+app.js?1430146173:40 Finished 3
+app.js?1430146173:40 Levels deep: 1
+app.js?1430146173:40 Substituting for 3
+app.js?1430146173:40 &{template:default} {{name=Name}} {{subtags=attacks with a test thing }} {{A1:$[[1]]=Crit?:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] ]]}} {{fumbleroll=Fumble:$[[2]]}} {{damage1=D1:[[1d6 +1[Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{critdmg1=+[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{A2:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -5]]=Crit!:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -5]]}} {{damage2=D2:[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{critdmg2=+[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{A3:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -10]]=Crit!:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -10]]}} {{damage3=D3:[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{critdmg3=+[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{A4:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -15]]=Crit!:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -15]]}} {{damage4=D4:[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{critdmg4=+[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} 
+app.js?1430146173:40 [[1]]
+app.js?1430146173:40 1
+app.js?1430146173:40 Levels deep: 1
+app.js?1430146173:40 Finished null for index 4
+app.js?1430146173:40 Finished 4
+app.js?1430146173:40 Levels deep: 1
+app.js?1430146173:40 Substituting for 4
+app.js?1430146173:40 &{template:default} {{name=Name}} {{subtags=attacks with a test thing }} {{A1:$[[1]]=Crit?:[[1d20cs>19 +19[BAB] +1[Ability] +0[Ad'l Atk Bon] ]]}} {{fumbleroll=Fumble:$[[2]]}} {{damage1=D1:[[1d6 +1[Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{critdmg1=+[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{A2:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -5]]=Crit!:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -5]]}} {{damage2=D2:[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{critdmg2=+[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{A3:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -10]]=Crit!:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -10]]}} {{damage3=D3:[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{critdmg3=+[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{A4:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -15]]=Crit!:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -15]]}} {{damage4=D4:[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{critdmg4=+[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} 
+app.js?1430146173:40 [[1d20cs>19 +19[BAB] +1[Ability] +0[Ad'l Atk Bon] ]]
+app.js?1430146173:40 1d20cs>19 +19[BAB] +1[Ability] +0[Ad'l Atk Bon]
+app.js?1430146173:40 Levels deep: 0
+app.js?1430146173:40 [[1d6 +1[Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]
+app.js?1430146173:40 1d6 +1[Weapon Dmg Ability] +0[Ad'l Dmg Bon]
+app.js?1430146173:40 Levels deep: 0
+app.js?1430146173:40 There's a nested inline roll in here. Ignore for now
+app.js?1430146173:40 [[1]]
+app.js?1430146173:40 1
+app.js?1430146173:40 Levels deep: 1
+app.js?1430146173:40 Finished null for index 7
+app.js?1430146173:40 Finished 7
+app.js?1430146173:40 Levels deep: 1
+app.js?1430146173:40 Substituting for 7
+app.js?1430146173:40 &{template:default} {{name=Name}} {{subtags=attacks with a test thing }} {{A1:$[[1]]=Crit?:$[[5]]}} {{fumbleroll=Fumble:$[[2]]}} {{damage1=D1:$[[6]]}} {{critdmg1=+[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{A2:[[1d20cs>19 +19[BAB] +1[Ability] +0[Ad'l Atk Bon] -5]]=Crit!:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -5]]}} {{damage2=D2:[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{critdmg2=+[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{A3:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -10]]=Crit!:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -10]]}} {{damage3=D3:[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{critdmg3=+[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{A4:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -15]]=Crit!:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -15]]}} {{damage4=D4:[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{critdmg4=+[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} 
+app.js?1430146173:40 [[1]]
+app.js?1430146173:40 1
+app.js?1430146173:40 Levels deep: 1
+app.js?1430146173:40 Finished null for index 8
+app.js?1430146173:40 Finished 8
+app.js?1430146173:40 Levels deep: 1
+app.js?1430146173:40 Substituting for 8
+app.js?1430146173:40 &{template:default} {{name=Name}} {{subtags=attacks with a test thing }} {{A1:$[[1]]=Crit?:$[[5]]}} {{fumbleroll=Fumble:$[[2]]}} {{damage1=D1:$[[6]]}} {{critdmg1=+[[1d6 +1[Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{A2:[[1d20cs>19 +19[BAB] +1[Ability] +0[Ad'l Atk Bon] -5]]=Crit!:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -5]]}} {{damage2=D2:[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{critdmg2=+[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{A3:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -10]]=Crit!:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -10]]}} {{damage3=D3:[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{critdmg3=+[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{A4:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -15]]=Crit!:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -15]]}} {{damage4=D4:[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{critdmg4=+[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} 
+app.js?1430146173:40 [[1d6 +1[Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]
+app.js?1430146173:40 1d6 +1[Weapon Dmg Ability] +0[Ad'l Dmg Bon]
+app.js?1430146173:40 Levels deep: 0
+app.js?1430146173:40 There's a nested inline roll in here. Ignore for now
+app.js?1430146173:40 [[1]]
+app.js?1430146173:40 1
+app.js?1430146173:40 Levels deep: 1
+app.js?1430146173:40 Finished null for index 10
+app.js?1430146173:40 Finished 10
+app.js?1430146173:40 Levels deep: 1
+app.js?1430146173:40 Substituting for 10
+app.js?1430146173:40 &{template:default} {{name=Name}} {{subtags=attacks with a test thing }} {{A1:$[[1]]=Crit?:$[[5]]}} {{fumbleroll=Fumble:$[[2]]}} {{damage1=D1:$[[6]]}} {{critdmg1=+$[[9]]}} {{A2:[[1d20cs>19 +19[BAB] +1[Ability] +0[Ad'l Atk Bon] -5]]=Crit!:[[1d20cs>19 +19[BAB] +1[Ability] +0[Ad'l Atk Bon] -5]]}} {{damage2=D2:[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{critdmg2=+[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{A3:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -10]]=Crit!:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -10]]}} {{damage3=D3:[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{critdmg3=+[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{A4:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -15]]=Crit!:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -15]]}} {{damage4=D4:[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{critdmg4=+[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} 
+app.js?1430146173:40 [[1d20cs>19 +19[BAB] +1[Ability] +0[Ad'l Atk Bon] -5]]
+app.js?1430146173:40 1d20cs>19 +19[BAB] +1[Ability] +0[Ad'l Atk Bon] -5
+app.js?1430146173:40 Levels deep: 0
+app.js?1430146173:40 There's a nested inline roll in here. Ignore for now
+app.js?1430146173:40 [[1]]
+app.js?1430146173:40 1
+app.js?1430146173:40 Levels deep: 1
+app.js?1430146173:40 Finished null for index 12
+app.js?1430146173:40 Finished 12
+app.js?1430146173:40 Levels deep: 1
+app.js?1430146173:40 Substituting for 12
+app.js?1430146173:40 &{template:default} {{name=Name}} {{subtags=attacks with a test thing }} {{A1:$[[1]]=Crit?:$[[5]]}} {{fumbleroll=Fumble:$[[2]]}} {{damage1=D1:$[[6]]}} {{critdmg1=+$[[9]]}} {{A2:$[[11]]=Crit!:[[1d20cs>19 +19[BAB] +1[Ability] +0[Ad'l Atk Bon] -5]]}} {{damage2=D2:[[1d6 +1[Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{critdmg2=+[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{A3:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -10]]=Crit!:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -10]]}} {{damage3=D3:[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{critdmg3=+[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{A4:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -15]]=Crit!:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -15]]}} {{damage4=D4:[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{critdmg4=+[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} 
+app.js?1430146173:40 [[1d20cs>19 +19[BAB] +1[Ability] +0[Ad'l Atk Bon] -5]]
+app.js?1430146173:40 1d20cs>19 +19[BAB] +1[Ability] +0[Ad'l Atk Bon] -5
+app.js?1430146173:40 Levels deep: 0
+app.js?1430146173:40 There's a nested inline roll in here. Ignore for now
+app.js?1430146173:40 [[1]]
+app.js?1430146173:40 1
+app.js?1430146173:40 Levels deep: 1
+app.js?1430146173:40 Finished null for index 14
+app.js?1430146173:40 Finished 14
+app.js?1430146173:40 Levels deep: 1
+app.js?1430146173:40 Substituting for 14
+app.js?1430146173:40 &{template:default} {{name=Name}} {{subtags=attacks with a test thing }} {{A1:$[[1]]=Crit?:$[[5]]}} {{fumbleroll=Fumble:$[[2]]}} {{damage1=D1:$[[6]]}} {{critdmg1=+$[[9]]}} {{A2:$[[11]]=Crit!:$[[13]]}} {{damage2=D2:[[1d6 +1[Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{critdmg2=+[[1d6 +1[Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{A3:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -10]]=Crit!:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -10]]}} {{damage3=D3:[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{critdmg3=+[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{A4:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -15]]=Crit!:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -15]]}} {{damage4=D4:[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{critdmg4=+[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} 
+app.js?1430146173:40 [[1d6 +1[Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]
+app.js?1430146173:40 1d6 +1[Weapon Dmg Ability] +0[Ad'l Dmg Bon]
+app.js?1430146173:40 Levels deep: 0
+app.js?1430146173:40 There's a nested inline roll in here. Ignore for now
+app.js?1430146173:40 [[1]]
+app.js?1430146173:40 1
+app.js?1430146173:40 Levels deep: 1
+app.js?1430146173:40 Finished null for index 16
+app.js?1430146173:40 Finished 16
+app.js?1430146173:40 Levels deep: 1
+app.js?1430146173:40 Substituting for 16
+app.js?1430146173:40 &{template:default} {{name=Name}} {{subtags=attacks with a test thing }} {{A1:$[[1]]=Crit?:$[[5]]}} {{fumbleroll=Fumble:$[[2]]}} {{damage1=D1:$[[6]]}} {{critdmg1=+$[[9]]}} {{A2:$[[11]]=Crit!:$[[13]]}} {{damage2=D2:$[[15]]}} {{critdmg2=+[[1d6 +1[Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{A3:[[1d20cs>19 +19[BAB] +1[Ability] +0[Ad'l Atk Bon] -10]]=Crit!:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -10]]}} {{damage3=D3:[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{critdmg3=+[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{A4:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -15]]=Crit!:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -15]]}} {{damage4=D4:[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{critdmg4=+[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} 
+app.js?1430146173:40 [[1d6 +1[Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]
+app.js?1430146173:40 1d6 +1[Weapon Dmg Ability] +0[Ad'l Dmg Bon]
+app.js?1430146173:40 Levels deep: 0
+app.js?1430146173:40 There's a nested inline roll in here. Ignore for now
+app.js?1430146173:40 [[1]]
+app.js?1430146173:40 1
+app.js?1430146173:40 Levels deep: 1
+app.js?1430146173:40 Finished null for index 18
+app.js?1430146173:40 Finished 18
+app.js?1430146173:40 Levels deep: 1
+app.js?1430146173:40 Substituting for 18
+app.js?1430146173:40 &{template:default} {{name=Name}} {{subtags=attacks with a test thing }} {{A1:$[[1]]=Crit?:$[[5]]}} {{fumbleroll=Fumble:$[[2]]}} {{damage1=D1:$[[6]]}} {{critdmg1=+$[[9]]}} {{A2:$[[11]]=Crit!:$[[13]]}} {{damage2=D2:$[[15]]}} {{critdmg2=+$[[17]]}} {{A3:[[1d20cs>19 +19[BAB] +1[Ability] +0[Ad'l Atk Bon] -10]]=Crit!:[[1d20cs>19 +19[BAB] +1[Ability] +0[Ad'l Atk Bon] -10]]}} {{damage3=D3:[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{critdmg3=+[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{A4:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -15]]=Crit!:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -15]]}} {{damage4=D4:[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{critdmg4=+[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} 
+app.js?1430146173:40 [[1d20cs>19 +19[BAB] +1[Ability] +0[Ad'l Atk Bon] -10]]
+app.js?1430146173:40 1d20cs>19 +19[BAB] +1[Ability] +0[Ad'l Atk Bon] -10
+app.js?1430146173:40 Levels deep: 0
+app.js?1430146173:40 There's a nested inline roll in here. Ignore for now
+app.js?1430146173:40 [[1]]
+app.js?1430146173:40 1
+app.js?1430146173:40 Levels deep: 1
+app.js?1430146173:40 Finished null for index 20
+app.js?1430146173:40 Finished 20
+app.js?1430146173:40 Levels deep: 1
+app.js?1430146173:40 Substituting for 20
+app.js?1430146173:40 &{template:default} {{name=Name}} {{subtags=attacks with a test thing }} {{A1:$[[1]]=Crit?:$[[5]]}} {{fumbleroll=Fumble:$[[2]]}} {{damage1=D1:$[[6]]}} {{critdmg1=+$[[9]]}} {{A2:$[[11]]=Crit!:$[[13]]}} {{damage2=D2:$[[15]]}} {{critdmg2=+$[[17]]}} {{A3:$[[19]]=Crit!:[[1d20cs>19 +19[BAB] +1[Ability] +0[Ad'l Atk Bon] -10]]}} {{damage3=D3:[[1d6 +1[Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{critdmg3=+[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{A4:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -15]]=Crit!:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -15]]}} {{damage4=D4:[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{critdmg4=+[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} 
+app.js?1430146173:40 [[1d20cs>19 +19[BAB] +1[Ability] +0[Ad'l Atk Bon] -10]]
+app.js?1430146173:40 1d20cs>19 +19[BAB] +1[Ability] +0[Ad'l Atk Bon] -10
+app.js?1430146173:40 Levels deep: 0
+app.js?1430146173:40 There's a nested inline roll in here. Ignore for now
+app.js?1430146173:40 [[1]]
+app.js?1430146173:40 1
+app.js?1430146173:40 Levels deep: 1
+app.js?1430146173:40 Finished null for index 22
+app.js?1430146173:40 Finished 22
+app.js?1430146173:40 Levels deep: 1
+app.js?1430146173:40 Substituting for 22
+app.js?1430146173:40 &{template:default} {{name=Name}} {{subtags=attacks with a test thing }} {{A1:$[[1]]=Crit?:$[[5]]}} {{fumbleroll=Fumble:$[[2]]}} {{damage1=D1:$[[6]]}} {{critdmg1=+$[[9]]}} {{A2:$[[11]]=Crit!:$[[13]]}} {{damage2=D2:$[[15]]}} {{critdmg2=+$[[17]]}} {{A3:$[[19]]=Crit!:$[[21]]}} {{damage3=D3:[[1d6 +1[Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{critdmg3=+[[1d6 +1[Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{A4:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -15]]=Crit!:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -15]]}} {{damage4=D4:[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{critdmg4=+[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} 
+app.js?1430146173:40 [[1d6 +1[Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]
+app.js?1430146173:40 1d6 +1[Weapon Dmg Ability] +0[Ad'l Dmg Bon]
+app.js?1430146173:40 Levels deep: 0
+app.js?1430146173:40 There's a nested inline roll in here. Ignore for now
+app.js?1430146173:40 [[1]]
+app.js?1430146173:40 1
+app.js?1430146173:40 Levels deep: 1
+app.js?1430146173:40 Finished null for index 24
+app.js?1430146173:40 Finished 24
+app.js?1430146173:40 Levels deep: 1
+app.js?1430146173:40 Substituting for 24
+app.js?1430146173:40 &{template:default} {{name=Name}} {{subtags=attacks with a test thing }} {{A1:$[[1]]=Crit?:$[[5]]}} {{fumbleroll=Fumble:$[[2]]}} {{damage1=D1:$[[6]]}} {{critdmg1=+$[[9]]}} {{A2:$[[11]]=Crit!:$[[13]]}} {{damage2=D2:$[[15]]}} {{critdmg2=+$[[17]]}} {{A3:$[[19]]=Crit!:$[[21]]}} {{damage3=D3:$[[23]]}} {{critdmg3=+[[1d6 +1[Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{A4:[[1d20cs>19 +19[BAB] +1[Ability] +0[Ad'l Atk Bon] -15]]=Crit!:[[1d20cs>19 +19[BAB] +[[1]][Ability] +0[Ad'l Atk Bon] -15]]}} {{damage4=D4:[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{critdmg4=+[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} 
+app.js?1430146173:40 [[1d6 +1[Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]
+app.js?1430146173:40 1d6 +1[Weapon Dmg Ability] +0[Ad'l Dmg Bon]
+app.js?1430146173:40 Levels deep: 0
+app.js?1430146173:40 There's a nested inline roll in here. Ignore for now
+app.js?1430146173:40 [[1]]
+app.js?1430146173:40 1
+app.js?1430146173:40 Levels deep: 1
+app.js?1430146173:40 Finished null for index 26
+app.js?1430146173:40 Finished 26
+app.js?1430146173:40 Levels deep: 1
+app.js?1430146173:40 Substituting for 26
+app.js?1430146173:40 &{template:default} {{name=Name}} {{subtags=attacks with a test thing }} {{A1:$[[1]]=Crit?:$[[5]]}} {{fumbleroll=Fumble:$[[2]]}} {{damage1=D1:$[[6]]}} {{critdmg1=+$[[9]]}} {{A2:$[[11]]=Crit!:$[[13]]}} {{damage2=D2:$[[15]]}} {{critdmg2=+$[[17]]}} {{A3:$[[19]]=Crit!:$[[21]]}} {{damage3=D3:$[[23]]}} {{critdmg3=+$[[25]]}} {{A4:[[1d20cs>19 +19[BAB] +1[Ability] +0[Ad'l Atk Bon] -15]]=Crit!:[[1d20cs>19 +19[BAB] +1[Ability] +0[Ad'l Atk Bon] -15]]}} {{damage4=D4:[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{critdmg4=+[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} 
+app.js?1430146173:40 [[1d20cs>19 +19[BAB] +1[Ability] +0[Ad'l Atk Bon] -15]]
+app.js?1430146173:40 1d20cs>19 +19[BAB] +1[Ability] +0[Ad'l Atk Bon] -15
+app.js?1430146173:40 Levels deep: 0
+app.js?1430146173:40 There's a nested inline roll in here. Ignore for now
+app.js?1430146173:40 [[1]]
+app.js?1430146173:40 1
+app.js?1430146173:40 Levels deep: 1
+app.js?1430146173:40 Finished null for index 28
+app.js?1430146173:40 Finished 28
+app.js?1430146173:40 Levels deep: 1
+app.js?1430146173:40 Substituting for 28
+app.js?1430146173:40 &{template:default} {{name=Name}} {{subtags=attacks with a test thing }} {{A1:$[[1]]=Crit?:$[[5]]}} {{fumbleroll=Fumble:$[[2]]}} {{damage1=D1:$[[6]]}} {{critdmg1=+$[[9]]}} {{A2:$[[11]]=Crit!:$[[13]]}} {{damage2=D2:$[[15]]}} {{critdmg2=+$[[17]]}} {{A3:$[[19]]=Crit!:$[[21]]}} {{damage3=D3:$[[23]]}} {{critdmg3=+$[[25]]}} {{A4:$[[27]]=Crit!:[[1d20cs>19 +19[BAB] +1[Ability] +0[Ad'l Atk Bon] -15]]}} {{damage4=D4:[[1d6 +1[Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{critdmg4=+[[1d6 +[[1]][Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} 
+app.js?1430146173:40 [[1d20cs>19 +19[BAB] +1[Ability] +0[Ad'l Atk Bon] -15]]
+app.js?1430146173:40 1d20cs>19 +19[BAB] +1[Ability] +0[Ad'l Atk Bon] -15
+app.js?1430146173:40 Levels deep: 0
+app.js?1430146173:40 There's a nested inline roll in here. Ignore for now
+app.js?1430146173:40 [[1]]
+app.js?1430146173:40 1
+app.js?1430146173:40 Levels deep: 1
+app.js?1430146173:40 Finished null for index 30
+app.js?1430146173:40 Finished 30
+app.js?1430146173:40 Levels deep: 1
+app.js?1430146173:40 Substituting for 30
+app.js?1430146173:40 &{template:default} {{name=Name}} {{subtags=attacks with a test thing }} {{A1:$[[1]]=Crit?:$[[5]]}} {{fumbleroll=Fumble:$[[2]]}} {{damage1=D1:$[[6]]}} {{critdmg1=+$[[9]]}} {{A2:$[[11]]=Crit!:$[[13]]}} {{damage2=D2:$[[15]]}} {{critdmg2=+$[[17]]}} {{A3:$[[19]]=Crit!:$[[21]]}} {{damage3=D3:$[[23]]}} {{critdmg3=+$[[25]]}} {{A4:$[[27]]=Crit!:$[[29]]}} {{damage4=D4:[[1d6 +1[Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} {{critdmg4=+[[1d6 +1[Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} 
+app.js?1430146173:40 [[1d6 +1[Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]
+app.js?1430146173:40 1d6 +1[Weapon Dmg Ability] +0[Ad'l Dmg Bon]
+app.js?1430146173:40 Levels deep: 0
+app.js?1430146173:40 There's a nested inline roll in here. Ignore for now
+app.js?1430146173:40 &{template:default} {{name=Name}} {{subtags=attacks with a test thing }} {{A1:$[[1]]=Crit?:$[[5]]}} {{fumbleroll=Fumble:$[[2]]}} {{damage1=D1:$[[6]]}} {{critdmg1=+$[[9]]}} {{A2:$[[11]]=Crit!:$[[13]]}} {{damage2=D2:$[[15]]}} {{critdmg2=+$[[17]]}} {{A3:$[[19]]=Crit!:$[[21]]}} {{damage3=D3:$[[23]]}} {{critdmg3=+$[[25]]}} {{A4:$[[27]]=Crit!:$[[29]]}} {{damage4=D4:$[[31]]}} {{critdmg4=+[[1d6 +1[Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]}} 
+app.js?1430146173:40 [[1d6 +1[Weapon Dmg Ability] +0[Ad'l Dmg Bon] ]]
+app.js?1430146173:40 1d6 +1[Weapon Dmg Ability] +0[Ad'l Dmg Bon]
+app.js?1430146173:40 Levels deep: 0
+app.js?1430146173:40 &{template:default} {{name=Name}} {{subtags=attacks with a test thing }} {{A1:$[[1]]=Crit?:$[[5]]}} {{fumbleroll=Fumble:$[[2]]}} {{damage1=D1:$[[6]]}} {{critdmg1=+$[[9]]}} {{A2:$[[11]]=Crit!:$[[13]]}} {{damage2=D2:$[[15]]}} {{critdmg2=+$[[17]]}} {{A3:$[[19]]=Crit!:$[[21]]}} {{damage3=D3:$[[23]]}} {{critdmg3=+$[[25]]}} {{A4:$[[27]]=Crit!:$[[29]]}} {{damage4=D4:$[[31]]}} {{critdmg4=+$[[32]]}} 
+app.js?1430146173:40 &{template:default} {{name=Name}} {{subtags=attacks with a test thing }} {{A1:$[[1]]=Crit?:$[[5]]}} {{fumbleroll=Fumble:$[[2]]}} {{damage1=D1:$[[6]]}} {{critdmg1=+$[[9]]}} {{A2:$[[11]]=Crit!:$[[13]]}} {{damage2=D2:$[[15]]}} {{critdmg2=+$[[17]]}} {{A3:$[[19]]=Crit!:$[[21]]}} {{damage3=D3:$[[23]]}} {{critdmg3=+$[[25]]}} {{A4:$[[27]]=Crit!:$[[29]]}} {{damage4=D4:$[[31]]}} {{critdmg4=+$[[32]]}} 
+app.js?1430146173:40 Finished -JnveDS76x6sb3pNSS8j for index 1
+app.js?1430146173:40 Finished 1
+app.js?1430146173:40 Levels deep: 0
+app.js?1430146173:40 &{template:default} {{name=Name}} {{subtags=attacks with a test thing }} {{A1:$[[1]]=Crit?:$[[5]]}} {{fumbleroll=Fumble:$[[2]]}} {{damage1=D1:$[[6]]}} {{critdmg1=+$[[9]]}} {{A2:$[[11]]=Crit!:$[[13]]}} {{damage2=D2:$[[15]]}} {{critdmg2=+$[[17]]}} {{A3:$[[19]]=Crit!:$[[21]]}} {{damage3=D3:$[[23]]}} {{critdmg3=+$[[25]]}} {{A4:$[[27]]=Crit!:$[[29]]}} {{damage4=D4:$[[31]]}} {{critdmg4=+$[[32]]}} 
+app.js?1430146173:40 Finished -JnveDS9BWGyQClpbbzb for index 2
+app.js?1430146173:40 Finished 2
+app.js?1430146173:40 Levels deep: 0
+app.js?1430146173:40 &{template:default} {{name=Name}} {{subtags=attacks with a test thing }} {{A1:$[[1]]=Crit?:$[[5]]}} {{fumbleroll=Fumble:$[[2]]}} {{damage1=D1:$[[6]]}} {{critdmg1=+$[[9]]}} {{A2:$[[11]]=Crit!:$[[13]]}} {{damage2=D2:$[[15]]}} {{critdmg2=+$[[17]]}} {{A3:$[[19]]=Crit!:$[[21]]}} {{damage3=D3:$[[23]]}} {{critdmg3=+$[[25]]}} {{A4:$[[27]]=Crit!:$[[29]]}} {{damage4=D4:$[[31]]}} {{critdmg4=+$[[32]]}} 
+app.js?1430146173:40 Finished -JnveDTdZvCKebSWSiyK for index 25
+app.js?1430146173:40 Finished 25
+app.js?1430146173:40 Levels deep: 0
+app.js?1430146173:40 &{template:default} {{name=Name}} {{subtags=attacks with a test thing }} {{A1:$[[1]]=Crit?:$[[5]]}} {{fumbleroll=Fumble:$[[2]]}} {{damage1=D1:$[[6]]}} {{critdmg1=+$[[9]]}} {{A2:$[[11]]=Crit!:$[[13]]}} {{damage2=D2:$[[15]]}} {{critdmg2=+$[[17]]}} {{A3:$[[19]]=Crit!:$[[21]]}} {{damage3=D3:$[[23]]}} {{critdmg3=+$[[25]]}} {{A4:$[[27]]=Crit!:$[[29]]}} {{damage4=D4:$[[31]]}} {{critdmg4=+$[[32]]}} 
+app.js?1430146173:40 Finished -JnveDTrbLn7VOsDkIFz for index 29
+app.js?1430146173:40 Finished 29
+app.js?1430146173:40 Levels deep: 0
+app.js?1430146173:40 &{template:default} {{name=Name}} {{subtags=attacks with a test thing }} {{A1:$[[1]]=Crit?:$[[5]]}} {{fumbleroll=Fumble:$[[2]]}} {{damage1=D1:$[[6]]}} {{critdmg1=+$[[9]]}} {{A2:$[[11]]=Crit!:$[[13]]}} {{damage2=D2:$[[15]]}} {{critdmg2=+$[[17]]}} {{A3:$[[19]]=Crit!:$[[21]]}} {{damage3=D3:$[[23]]}} {{critdmg3=+$[[25]]}} {{A4:$[[27]]=Crit!:$[[29]]}} {{damage4=D4:$[[31]]}} {{critdmg4=+$[[32]]}} 
+app.js?1430146173:40 Finished -JnveDTkRGopubVL_2AQ for index 27
+app.js?1430146173:40 Finished 27
+app.js?1430146173:40 Levels deep: 0
+app.js?1430146173:40 &{template:default} {{name=Name}} {{subtags=attacks with a test thing }} {{A1:$[[1]]=Crit?:$[[5]]}} {{fumbleroll=Fumble:$[[2]]}} {{damage1=D1:$[[6]]}} {{critdmg1=+$[[9]]}} {{A2:$[[11]]=Crit!:$[[13]]}} {{damage2=D2:$[[15]]}} {{critdmg2=+$[[17]]}} {{A3:$[[19]]=Crit!:$[[21]]}} {{damage3=D3:$[[23]]}} {{critdmg3=+$[[25]]}} {{A4:$[[27]]=Crit!:$[[29]]}} {{damage4=D4:$[[31]]}} {{critdmg4=+$[[32]]}} 
+app.js?1430146173:40 Finished -JnveDSsD-vz2lO9hlGT for index 13
+app.js?1430146173:40 Finished 13
+app.js?1430146173:40 Levels deep: 0
+app.js?1430146173:40 &{template:default} {{name=Name}} {{subtags=attacks with a test thing }} {{A1:$[[1]]=Crit?:$[[5]]}} {{fumbleroll=Fumble:$[[2]]}} {{damage1=D1:$[[6]]}} {{critdmg1=+$[[9]]}} {{A2:$[[11]]=Crit!:$[[13]]}} {{damage2=D2:$[[15]]}} {{critdmg2=+$[[17]]}} {{A3:$[[19]]=Crit!:$[[21]]}} {{damage3=D3:$[[23]]}} {{critdmg3=+$[[25]]}} {{A4:$[[27]]=Crit!:$[[29]]}} {{damage4=D4:$[[31]]}} {{critdmg4=+$[[32]]}} 
+app.js?1430146173:40 Finished -JnveDT7WX4856pgrLzx for index 17
+app.js?1430146173:40 Finished 17
+app.js?1430146173:40 Levels deep: 0
+app.js?1430146173:40 &{template:default} {{name=Name}} {{subtags=attacks with a test thing }} {{A1:$[[1]]=Crit?:$[[5]]}} {{fumbleroll=Fumble:$[[2]]}} {{damage1=D1:$[[6]]}} {{critdmg1=+$[[9]]}} {{A2:$[[11]]=Crit!:$[[13]]}} {{damage2=D2:$[[15]]}} {{critdmg2=+$[[17]]}} {{A3:$[[19]]=Crit!:$[[21]]}} {{damage3=D3:$[[23]]}} {{critdmg3=+$[[25]]}} {{A4:$[[27]]=Crit!:$[[29]]}} {{damage4=D4:$[[31]]}} {{critdmg4=+$[[32]]}} 
+app.js?1430146173:40 Finished -JnveDTEU8P0PZ-CGCmP for index 19
+app.js?1430146173:40 Finished 19
+app.js?1430146173:40 Levels deep: 0
+app.js?1430146173:40 &{template:default} {{name=Name}} {{subtags=attacks with a test thing }} {{A1:$[[1]]=Crit?:$[[5]]}} {{fumbleroll=Fumble:$[[2]]}} {{damage1=D1:$[[6]]}} {{critdmg1=+$[[9]]}} {{A2:$[[11]]=Crit!:$[[13]]}} {{damage2=D2:$[[15]]}} {{critdmg2=+$[[17]]}} {{A3:$[[19]]=Crit!:$[[21]]}} {{damage3=D3:$[[23]]}} {{critdmg3=+$[[25]]}} {{A4:$[[27]]=Crit!:$[[29]]}} {{damage4=D4:$[[31]]}} {{critdmg4=+$[[32]]}} 
+app.js?1430146173:40 Finished -JnveDSztBoWWb8ET9zc for index 15
+app.js?1430146173:40 Finished 15
+app.js?1430146173:40 Levels deep: 0
+app.js?1430146173:40 &{template:default} {{name=Name}} {{subtags=attacks with a test thing }} {{A1:$[[1]]=Crit?:$[[5]]}} {{fumbleroll=Fumble:$[[2]]}} {{damage1=D1:$[[6]]}} {{critdmg1=+$[[9]]}} {{A2:$[[11]]=Crit!:$[[13]]}} {{damage2=D2:$[[15]]}} {{critdmg2=+$[[17]]}} {{A3:$[[19]]=Crit!:$[[21]]}} {{damage3=D3:$[[23]]}} {{critdmg3=+$[[25]]}} {{A4:$[[27]]=Crit!:$[[29]]}} {{damage4=D4:$[[31]]}} {{critdmg4=+$[[32]]}} 
+app.js?1430146173:40 Finished -JnveDTOpnmNpzCl5dNP for index 21
+app.js?1430146173:40 Finished 21
+app.js?1430146173:40 Levels deep: 0
+app.js?1430146173:40 &{template:default} {{name=Name}} {{subtags=attacks with a test thing }} {{A1:$[[1]]=Crit?:$[[5]]}} {{fumbleroll=Fumble:$[[2]]}} {{damage1=D1:$[[6]]}} {{critdmg1=+$[[9]]}} {{A2:$[[11]]=Crit!:$[[13]]}} {{damage2=D2:$[[15]]}} {{critdmg2=+$[[17]]}} {{A3:$[[19]]=Crit!:$[[21]]}} {{damage3=D3:$[[23]]}} {{critdmg3=+$[[25]]}} {{A4:$[[27]]=Crit!:$[[29]]}} {{damage4=D4:$[[31]]}} {{critdmg4=+$[[32]]}} 
+app.js?1430146173:40 Finished -JnveDTVTsxjVwVf2Raz for index 23
+app.js?1430146173:40 Finished 23
+app.js?1430146173:40 Levels deep: 0
+app.js?1430146173:40 &{template:default} {{name=Name}} {{subtags=attacks with a test thing }} {{A1:$[[1]]=Crit?:$[[5]]}} {{fumbleroll=Fumble:$[[2]]}} {{damage1=D1:$[[6]]}} {{critdmg1=+$[[9]]}} {{A2:$[[11]]=Crit!:$[[13]]}} {{damage2=D2:$[[15]]}} {{critdmg2=+$[[17]]}} {{A3:$[[19]]=Crit!:$[[21]]}} {{damage3=D3:$[[23]]}} {{critdmg3=+$[[25]]}} {{A4:$[[27]]=Crit!:$[[29]]}} {{damage4=D4:$[[31]]}} {{critdmg4=+$[[32]]}} 
+app.js?1430146173:40 Finished -JnveDSddXh3URnMY0ig for index 9
+app.js?1430146173:40 Finished 9
+app.js?1430146173:40 Levels deep: 0
+app.js?1430146173:40 &{template:default} {{name=Name}} {{subtags=attacks with a test thing }} {{A1:$[[1]]=Crit?:$[[5]]}} {{fumbleroll=Fumble:$[[2]]}} {{damage1=D1:$[[6]]}} {{critdmg1=+$[[9]]}} {{A2:$[[11]]=Crit!:$[[13]]}} {{damage2=D2:$[[15]]}} {{critdmg2=+$[[17]]}} {{A3:$[[19]]=Crit!:$[[21]]}} {{damage3=D3:$[[23]]}} {{critdmg3=+$[[25]]}} {{A4:$[[27]]=Crit!:$[[29]]}} {{damage4=D4:$[[31]]}} {{critdmg4=+$[[32]]}} 
+app.js?1430146173:40 Finished -JnveDSO9gFbKTJRdr1Y for index 5
+app.js?1430146173:40 Finished 5
+app.js?1430146173:40 Levels deep: 0
+app.js?1430146173:40 &{template:default} {{name=Name}} {{subtags=attacks with a test thing }} {{A1:$[[1]]=Crit?:$[[5]]}} {{fumbleroll=Fumble:$[[2]]}} {{damage1=D1:$[[6]]}} {{critdmg1=+$[[9]]}} {{A2:$[[11]]=Crit!:$[[13]]}} {{damage2=D2:$[[15]]}} {{critdmg2=+$[[17]]}} {{A3:$[[19]]=Crit!:$[[21]]}} {{damage3=D3:$[[23]]}} {{critdmg3=+$[[25]]}} {{A4:$[[27]]=Crit!:$[[29]]}} {{damage4=D4:$[[31]]}} {{critdmg4=+$[[32]]}} 
+app.js?1430146173:40 Finished -JnveDSPDkRHN9k_YK0s for index 6
+app.js?1430146173:40 Finished 6
+app.js?1430146173:40 Levels deep: 0
+app.js?1430146173:40 &{template:default} {{name=Name}} {{subtags=attacks with a test thing }} {{A1:$[[1]]=Crit?:$[[5]]}} {{fumbleroll=Fumble:$[[2]]}} {{damage1=D1:$[[6]]}} {{critdmg1=+$[[9]]}} {{A2:$[[11]]=Crit!:$[[13]]}} {{damage2=D2:$[[15]]}} {{critdmg2=+$[[17]]}} {{A3:$[[19]]=Crit!:$[[21]]}} {{damage3=D3:$[[23]]}} {{critdmg3=+$[[25]]}} {{A4:$[[27]]=Crit!:$[[29]]}} {{damage4=D4:$[[31]]}} {{critdmg4=+$[[32]]}} 
+app.js?1430146173:40 Finished -JnveDSkzwoW0pB83e8W for index 11
+app.js?1430146173:40 Finished 11
+app.js?1430146173:40 Levels deep: 0
+app.js?1430146173:40 &{template:default} {{name=Name}} {{subtags=attacks with a test thing }} {{A1:$[[1]]=Crit?:$[[5]]}} {{fumbleroll=Fumble:$[[2]]}} {{damage1=D1:$[[6]]}} {{critdmg1=+$[[9]]}} {{A2:$[[11]]=Crit!:$[[13]]}} {{damage2=D2:$[[15]]}} {{critdmg2=+$[[17]]}} {{A3:$[[19]]=Crit!:$[[21]]}} {{damage3=D3:$[[23]]}} {{critdmg3=+$[[25]]}} {{A4:$[[27]]=Crit!:$[[29]]}} {{damage4=D4:$[[31]]}} {{critdmg4=+$[[32]]}} 
+app.js?1430146173:40 Finished -JnveDTyUdpPS3Yyp9vg for index 31
+app.js?1430146173:40 Finished 31
+app.js?1430146173:40 Levels deep: 0
+app.js?1430146173:40 &{template:default} {{name=Name}} {{subtags=attacks with a test thing }} {{A1:$[[1]]=Crit?:$[[5]]}} {{fumbleroll=Fumble:$[[2]]}} {{damage1=D1:$[[6]]}} {{critdmg1=+$[[9]]}} {{A2:$[[11]]=Crit!:$[[13]]}} {{damage2=D2:$[[15]]}} {{critdmg2=+$[[17]]}} {{A3:$[[19]]=Crit!:$[[21]]}} {{damage3=D3:$[[23]]}} {{critdmg3=+$[[25]]}} {{A4:$[[27]]=Crit!:$[[29]]}} {{damage4=D4:$[[31]]}} {{critdmg4=+$[[32]]}} 
+app.js?1430146173:40 Finished -JnveDTzhta7QzKYOgwf for index 32
+app.js?1430146173:40 Finished 32
+app.js?1430146173:40 Levels deep: 0
+app.js?1430146173:40 &{template:default} {{name=Name}} {{subtags=attacks with a test thing }} {{A1:$[[1]]=Crit?:$[[5]]}} {{fumbleroll=Fumble:$[[2]]}} {{damage1=D1:$[[6]]}} {{critdmg1=+$[[9]]}} {{A2:$[[11]]=Crit!:$[[13]]}} {{damage2=D2:$[[15]]}} {{critdmg2=+$[[17]]}} {{A3:$[[19]]=Crit!:$[[21]]}} {{damage3=D3:$[[23]]}} {{critdmg3=+$[[25]]}} {{A4:$[[27]]=Crit!:$[[29]]}} {{damage4=D4:$[[31]]}} {{critdmg4=+$[[32]]}} 
+app.js?1430146173:40 Inline rolls complete!
+app.js?1430146173:43 window resize
