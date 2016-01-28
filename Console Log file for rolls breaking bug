@@ -1,0 +1,826 @@
+Really updating character sheet values
+app.js?1454002697:36 Setting up repeating sections took until 2ms
+app.js?1454002697:36 Finding list of dirty attributes took until 2ms
+app.js?1454002697:36 Querytest took until 3ms
+app.js?1454002697:36 Set values took until 4ms
+app.js?1454002697:36 Took 6ms
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Finished after going 4 levels deep.
+app.js?1454002697:41 2
+app.js?1454002697:36 CLICKED
+79app.js?1454002697:41 2
+app.js?1454002697:41 Begin processing op!
+40app.js?1454002697:41 Levels deep: 0
+app.js?1454002697:41 Finished 0
+app.js?1454002697:41 Levels deep: 0
+app.js?1454002697:41 Finished 1
+app.js?1454002697:41 Levels deep: 0
+app.js?1454002697:41 Finished 2
+app.js?1454002697:41 Levels deep: 0
+app.js?1454002697:41 Finished 3
+app.js?1454002697:41 Levels deep: 0
+app.js?1454002697:41 Finished 4
+app.js?1454002697:41 Levels deep: 0
+app.js?1454002697:41 Finished 5
+app.js?1454002697:41 Levels deep: 0
+app.js?1454002697:41 Finished 6
+app.js?1454002697:41 Levels deep: 0
+app.js?1454002697:41 Finished 7
+app.js?1454002697:41 Levels deep: 0
+app.js?1454002697:41 Finished 8
+app.js?1454002697:41 Levels deep: 0
+app.js?1454002697:41 Finished 9
+app.js?1454002697:41 Levels deep: 0
+app.js?1454002697:41 Finished 10
+app.js?1454002697:41 Levels deep: 0
+app.js?1454002697:41 Finished 11
+app.js?1454002697:41 Levels deep: 0
+app.js?1454002697:41 Finished 12
+app.js?1454002697:41 Levels deep: 0
+app.js?1454002697:41 Finished 13
+app.js?1454002697:41 Levels deep: 0
+app.js?1454002697:41 Finished 14
+app.js?1454002697:41 Levels deep: 0
+app.js?1454002697:41 Finished 15
+app.js?1454002697:41 Levels deep: 0
+app.js?1454002697:41 Finished 16
+app.js?1454002697:41 Levels deep: 0
+app.js?1454002697:41 Finished 17
+app.js?1454002697:41 Levels deep: 0
+app.js?1454002697:41 Finished 18
+app.js?1454002697:41 Levels deep: 0
+app.js?1454002697:41 Finished 19
+app.js?1454002697:41 Levels deep: 0
+app.js?1454002697:41 Finished 20
+app.js?1454002697:41 Levels deep: 0
+app.js?1454002697:41 Finished 21
+app.js?1454002697:41 Levels deep: 0
+app.js?1454002697:41 Finished 22
+app.js?1454002697:41 Levels deep: 0
+app.js?1454002697:41 Finished 23
+app.js?1454002697:41 Levels deep: 0
+app.js?1454002697:41 Finished 24
+app.js?1454002697:41 Levels deep: 0
+app.js?1454002697:41 Finished 25
+app.js?1454002697:41 Levels deep: 0
+app.js?1454002697:41 Finished 26
+app.js?1454002697:41 Levels deep: 0
+app.js?1454002697:41 Finished 27
+app.js?1454002697:41 Levels deep: 0
+app.js?1454002697:41 Finished 28
+app.js?1454002697:41 Levels deep: 0
+app.js?1454002697:41 Finished 29
+app.js?1454002697:41 Levels deep: 0
+app.js?1454002697:41 Finished 30
+app.js?1454002697:41 Levels deep: 0
+app.js?1454002697:41 Finished 31
+app.js?1454002697:41 Levels deep: 0
+app.js?1454002697:41 Finished 32
+app.js?1454002697:41 Levels deep: 0
+app.js?1454002697:41 Finished 33
+app.js?1454002697:41 Levels deep: 0
+app.js?1454002697:41 Finished 34
+app.js?1454002697:41 Levels deep: 0
+app.js?1454002697:41 Finished 35
+app.js?1454002697:41 Levels deep: 0
+app.js?1454002697:41 Finished 36
+app.js?1454002697:41 Levels deep: 0
+app.js?1454002697:41 Finished 37
+app.js?1454002697:41 Levels deep: 0
+app.js?1454002697:41 Finished 38
+app.js?1454002697:41 Levels deep: 0
+app.js?1454002697:41 Finished 39
+app.js?1454002697:41 Levels deep: 0
+app.js?1454002697:41 Inline rolls complete!
+app.js?1454002697:36 Updating character sheet values
+app.js?1454002697:36 Really updating character sheet values
+app.js?1454002697:36 Setting up repeating sections took until 3ms
+app.js?1454002697:36 Finding list of dirty attributes took until 3ms
+app.js?1454002697:36 Querytest took until 5ms
+app.js?1454002697:36 Set values took until 7ms
+app.js?1454002697:36 Took 9ms
+app.js?1454002697:36 Updating character sheet values
+app.js?1454002697:36 Really updating character sheet values
+app.js?1454002697:36 Setting up repeating sections took until 3ms
+app.js?1454002697:36 Finding list of dirty attributes took until 3ms
+app.js?1454002697:36 Querytest took until 3ms
+app.js?1454002697:36 Set values took until 5ms
+app.js?1454002697:36 Took 6ms
+app.js?1454002697:36 CLICKED
+app.js?1454002697:36 Updating character sheet values
+app.js?1454002697:36 Really updating character sheet values
+app.js?1454002697:36 Setting up repeating sections took until 3ms
+app.js?1454002697:36 Finding list of dirty attributes took until 3ms
+app.js?1454002697:36 Querytest took until 3ms
+app.js?1454002697:36 Set values took until 5ms
+app.js?1454002697:36 Took 7ms
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Array[1]
+app.js?1454002697:41 Finished after going 4 levels deep.
+app.js?1454002697:41 3
+app.js?1454002697:36 CLICKED
+app.js?1454002697:41 3
+app.js?1454002697:41 2
+2app.js?1454002697:41 3
+app.js?1454002697:41 2
+2app.js?1454002697:41 3
+app.js?1454002697:41 2
+2app.js?1454002697:41 3
+app.js?1454002697:41 2
+app.js?1454002697:41 3
+app.js?1454002697:41 2
+app.js?1454002697:41 3
+app.js?1454002697:41 2
+app.js?1454002697:41 3
+app.js?1454002697:41 2
+app.js?1454002697:41 3
+app.js?1454002697:41 2
+2app.js?1454002697:41 3
+app.js?1454002697:41 2
+2app.js?1454002697:41 3
+app.js?1454002697:41 2
+2app.js?1454002697:41 3
+app.js?1454002697:41 2
+2app.js?1454002697:41 3
+app.js?1454002697:41 2
+app.js?1454002697:41 3
+app.js?1454002697:41 2
+app.js?1454002697:41 3
+app.js?1454002697:41 2
+app.js?1454002697:41 3
+app.js?1454002697:41 2
+app.js?1454002697:41 3
+app.js?1454002697:41 2
+2app.js?1454002697:41 3
+app.js?1454002697:41 2
+2app.js?1454002697:41 3
+app.js?1454002697:41 2
+2app.js?1454002697:41 3
+app.js?1454002697:41 2
+2app.js?1454002697:41 3
+app.js?1454002697:41 2
+app.js?1454002697:41 3
+app.js?1454002697:41 2
+app.js?1454002697:41 3
+app.js?1454002697:41 2
+app.js?1454002697:41 3
+app.js?1454002697:41 2
+app.js?1454002697:41 3
+app.js?1454002697:41 2
+2app.js?1454002697:41 3
+app.js?1454002697:41 2
+2app.js?1454002697:41 3
+app.js?1454002697:41 2
+2app.js?1454002697:41 3
+app.js?1454002697:41 2
+2app.js?1454002697:41 3
+app.js?1454002697:41 2
+app.js?1454002697:41 3
+app.js?1454002697:41 2
+app.js?1454002697:41 3
+app.js?1454002697:41 2
+app.js?1454002697:41 3
+app.js?1454002697:41 2
+app.js?1454002697:41 3
+app.js?1454002697:41 2
+2app.js?1454002697:41 3
+app.js?1454002697:41 2
+2app.js?1454002697:41 3
+app.js?1454002697:41 2
+2app.js?1454002697:41 3
+app.js?1454002697:41 2
+2app.js?1454002697:41 3
+app.js?1454002697:41 2
+app.js?1454002697:41 3
+app.js?1454002697:41 2
+app.js?1454002697:41 3
+app.js?1454002697:41 2
+app.js?1454002697:41 3
+app.js?1454002697:41 2
+app.js?1454002697:41 3
+app.js?1454002697:41 2
+app.js?1454002697:41 Begin processing op!
+40app.js?1454002697:41 Levels deep: 0
+app.js?1454002697:41 Finished 2
+app.js?1454002697:41 Levels deep: 0
+app.js?1454002697:41 Finished 3
+app.js?1454002697:41 Levels deep: 0
+app.js?1454002697:41 Finished 6
+app.js?1454002697:41 Levels deep: 0
+app.js?1454002697:41 Finished 7
+app.js?1454002697:41 Levels deep: 0
+app.js?1454002697:41 Finished 10
+app.js?1454002697:41 Levels deep: 0
+app.js?1454002697:41 Finished 11
+app.js?1454002697:41 Levels deep: 0
+app.js?1454002697:41 Finished 14
+app.js?1454002697:41 Levels deep: 0
+app.js?1454002697:41 Finished 15
+app.js?1454002697:41 Levels deep: 0
+app.js?1454002697:41 Finished 18
+app.js?1454002697:41 Levels deep: 0
+app.js?1454002697:41 Finished 19
+app.js?1454002697:41 Levels deep: 0
+app.js?1454002697:41 Finished 22
+app.js?1454002697:41 Levels deep: 0
+app.js?1454002697:41 Finished 23
+app.js?1454002697:41 Levels deep: 0
+app.js?1454002697:41 Finished 26
+app.js?1454002697:41 Levels deep: 0
+app.js?1454002697:41 Finished 27
+app.js?1454002697:41 Levels deep: 0
+app.js?1454002697:41 Finished 30
+app.js?1454002697:41 Levels deep: 0
+app.js?1454002697:41 Finished 31
+app.js?1454002697:41 Levels deep: 0
+app.js?1454002697:41 Finished 34
+app.js?1454002697:41 Levels deep: 0
+app.js?1454002697:41 Finished 35
+app.js?1454002697:41 Levels deep: 0
+app.js?1454002697:41 Finished 38
+app.js?1454002697:41 Levels deep: 0
+app.js?1454002697:41 Finished 39
+app.js?1454002697:41 Levels deep: 0
+app.js?1454002697:41 Finished 0
+app.js?1454002697:41 Levels deep: 0
+app.js?1454002697:41 Finished 1
+app.js?1454002697:41 Levels deep: 0
+app.js?1454002697:41 Finished 4
+app.js?1454002697:41 Levels deep: 0
+app.js?1454002697:41 Finished 5
+app.js?1454002697:41 Levels deep: 0
+app.js?1454002697:41 Finished 8
+app.js?1454002697:41 Levels deep: 0
+app.js?1454002697:41 Finished 9
+app.js?1454002697:41 Levels deep: 0
+app.js?1454002697:41 Finished 12
+app.js?1454002697:41 Levels deep: 0
+app.js?1454002697:41 Finished 13
+app.js?1454002697:41 Levels deep: 0
+app.js?1454002697:41 Finished 16
+app.js?1454002697:41 Levels deep: 0
+app.js?1454002697:41 Finished 17
+app.js?1454002697:41 Levels deep: 0
+app.js?1454002697:41 Finished 20
+app.js?1454002697:41 Levels deep: 0
+app.js?1454002697:41 Finished 21
+app.js?1454002697:41 Levels deep: 0
+app.js?1454002697:41 Finished 24
+app.js?1454002697:41 Levels deep: 0
+app.js?1454002697:41 Finished 25
+app.js?1454002697:41 Levels deep: 0
+app.js?1454002697:41 Finished 28
+app.js?1454002697:41 Levels deep: 0
+app.js?1454002697:41 Finished 29
+app.js?1454002697:41 Levels deep: 0
+app.js?1454002697:41 Finished 32
+app.js?1454002697:41 Levels deep: 0
+app.js?1454002697:41 Finished 33
+app.js?1454002697:41 Levels deep: 0
+app.js?1454002697:41 Finished 36
+app.js?1454002697:41 Levels deep: 0
+app.js?1454002697:41 Finished 37
+app.js?1454002697:41 Levels deep: 0
+app.js?1454002697:41 Inline rolls complete!
+app.js?1454002697:45 window resize
+app.js?1454002697:30 Final set zoom!
+app.js?1454002697:30 UPDATE GL SIZE!
+app.js?1454002697:30 Final set zoom!
+7750 console messages are not shown.
